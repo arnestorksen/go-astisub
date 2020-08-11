@@ -331,7 +331,10 @@ func newGSIBlock(s Subtitles) (g *gsiBlock) {
 		if s.Metadata.CreationDate != nil {
 			g.creationDate = *s.Metadata.CreationDate
 		}
-		g.revisionDate = s.Metadata.RevisionDate
+		if s.Metadata.RevisionDate != nil {
+
+			g.revisionDate = *s.Metadata.RevisionDate
+		}
 	}
 
 	// Timecode first in cue
