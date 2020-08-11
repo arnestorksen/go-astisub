@@ -3,6 +3,7 @@ package astisub_test
 import (
 	"bytes"
 	"io/ioutil"
+	"os"
 	"testing"
 	"time"
 
@@ -36,4 +37,32 @@ func TestSTL(t *testing.T) {
 	err = s.WriteToSTL(w)
 	assert.NoError(t, err)
 	assert.Equal(t, string(c), w.String())
+}
+
+func TestSTLTV2(t *testing.T) {
+	// Init
+	astisub.Now = func() (t time.Time) {
+		t, _ = time.Parse("060102", "170702")
+		return
+	}
+
+	// Open
+	s, err := astisub.OpenFile("./testdata/ok-opn.stl")
+	assert.NoError(t, err)
+
+	// Metadata
+	//assert.Equal(t, &astisub.Metadata{Framerate: 25, Language: astisub.LanguageEnglish, STLMaximumNumberOfDisplayableCharactersInAnyTextRow: astikit.IntPtr(40), STLMaximumNumberOfDisplayableRows: astikit.IntPtr(23), STLPublisher: "Copyright test", Title: "Title test"}, s.Metadata)
+
+	// No subtitles to write
+	w := &bytes.Buffer{}
+	err = s.WriteToSTL(w)
+//	assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
+
+	// Write
+	err = ioutil.WriteFile("./testdata/ok-opn-out.stl", w.Bytes(), os.ModePerm)
+	assert.NoError(t, err)
+//	err = s.WriteToSTL(w)
+//	assert.NoError(t, err)
+//	assert.Equal(t, string(c), w.String())
+
 }

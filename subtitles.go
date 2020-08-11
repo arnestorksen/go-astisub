@@ -270,6 +270,8 @@ type Metadata struct {
 	STLPublisher                                        string
 	Title                                               string
 	TTMLCopyright                                       string
+	CreationDate										*time.Time
+	RevisionDate                                        *time.Time
 }
 
 // Region represents a subtitle's region
