@@ -158,6 +158,9 @@ const (
 // TTI Special Extension Block Number
 const extensionBlockNumberReservedUserData = 0xfe
 
+const stlLineSeparator = 0x8a
+
+
 // ReadFromSTL parses an .stl content
 func ReadFromSTL(i io.Reader) (o *Subtitles, err error) {
 	// Init
@@ -222,8 +225,12 @@ func ReadFromSTL(i io.Reader) (o *Subtitles, err error) {
 		}
 
 		// Loop through rows
-		for _, text := range bytes.Split(t.text, []byte{0x8a}) {
-			parseTeletextRow(i, ch, func() styler { return newSTLStyler() }, text)
+		for _, text := range bytes.Split(t.text, []byte{stlLineSeparator}) {
+			if g.displayStandardCode == stlDisplayStandardCodeOpenSubtitling {
+				parseOpenSubtitleRow(i, ch, func() styler { return newSTLStyler() }, text)
+			} else {
+				parseTeletextRow(i, ch, func() styler { return newSTLStyler() }, text)
+			}
 		}
 
 		// Append item
@@ -299,7 +306,7 @@ func newGSIBlock(s Subtitles) (g *gsiBlock) {
 		languageCode:             stlLanguageCodeFrench,
 		maximumNumberOfDisplayableCharactersInAnyTextRow: 40,
 		maximumNumberOfDisplayableRows:                   23,
-		subtitleListReferenceCode:                        "12345678",
+		subtitleListReferenceCode:                        "",
 		timecodeStatus:                                   stlTimecodeStatusIntendedForUse,
 		totalNumberOfDisks:                               1,
 		totalNumberOfSubtitleGroups:                      1,
@@ -321,6 +328,10 @@ func newGSIBlock(s Subtitles) (g *gsiBlock) {
 			g.maximumNumberOfDisplayableRows = *s.Metadata.STLMaximumNumberOfDisplayableRows
 		}
 		g.publisher = s.Metadata.STLPublisher
+		if s.Metadata.CreationDate != nil {
+			g.creationDate = *s.Metadata.CreationDate
+		}
+		g.revisionDate = s.Metadata.RevisionDate
 	}
 
 	// Timecode first in cue
@@ -601,9 +612,13 @@ func newTTIBlock(i *Item, idx int) (t *ttiBlock) {
 	// Add text
 	var lines []string
 	for _, l := range i.Lines {
-		lines = append(lines, l.String())
+		var lineItems []string
+		for _, li := range l.Items {
+			lineItems = append(lineItems, asOpenSubtitleStyledLineItemString(li))
+		}
+		lines = append(lines, strings.Join(lineItems, " "))
 	}
-	t.text = []byte(strings.Join(lines, "\n"))
+	t.text = []byte(strings.Join(lines, string(stlLineSeparator)))
 	return
 }
 
@@ -734,6 +749,20 @@ func (s *stlStyler) parseSpacingAttribute(i byte) {
 		s.boxing = astikit.BoolPtr(false)
 	}
 }
+func (s *stlStyler) asStyledLineItemString(i string) string {
+	rs := i
+	if *s.italics {
+		rs = string(0x80) + rs + string(0x81)
+	}
+	if *s.underline {
+		rs = string(0x82) + rs + string(0x83)
+	}
+	if *s.boxing {
+		rs = string(0x84) + i + string(0x85)
+	}
+	return rs
+}
+
 
 func (s *stlStyler) hasBeenSet() bool {
 	return s.italics != nil || s.boxing != nil || s.underline != nil
