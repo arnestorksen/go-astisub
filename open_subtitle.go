@@ -79,13 +79,13 @@ func asOpenSubtitleStyledLineItemString(li LineItem) string {
 	rs := li.Text
 	if li.InlineStyle != nil {
 		if li.InlineStyle.STLItalics != nil && *li.InlineStyle.STLItalics {
-			rs = string(0x80) + rs + string(0x81)
+			rs = fmt.Sprint(0x80) + rs + fmt.Sprint(0x81)
 		}
 		if li.InlineStyle.STLUnderline != nil && *li.InlineStyle.STLUnderline {
-			rs = string(0x82) + rs + string(0x83)
+			rs = fmt.Sprint(0x82) + rs + fmt.Sprint(0x83)
 		}
 		if li.InlineStyle.STLBoxing != nil && *li.InlineStyle.STLBoxing {
-			rs = string(0x84) + rs + string(0x85)
+			rs = fmt.Sprint(0x84) + rs + fmt.Sprint(0x85)
 		}
 	}
 	return rs
