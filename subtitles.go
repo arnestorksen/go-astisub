@@ -270,7 +270,7 @@ type Metadata struct {
 	STLPublisher                                        string
 	Title                                               string
 	TTMLCopyright                                       string
-	CreationDate										*time.Time
+	CreationDate                                        *time.Time
 	RevisionDate                                        *time.Time
 }
 
