@@ -1,0 +1,3072 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+    <head>
+        <styling></styling>
+        <layout></layout>
+    </head>
+    <body>
+        <div>
+            <p begin="00:00:00.000" end="00:00:00.320" tts:extent="91% 10%" tts:textAlign="center">
+                <span>Lang: opn</span>
+            </p>
+            <p begin="00:00:50.720" end="00:00:55.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dette er fortelling om</span>
+                <br></br>
+                <span>hvordan jeg døde.</span>
+            </p>
+            <p begin="00:00:55.480" end="00:00:59.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Slapp av. Fortellingen er morsom,</span>
+                <br></br>
+                <span>og den er egentlig ikke min.</span>
+            </p>
+            <p begin="00:00:59.920" end="00:01:03.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette er fortellingen om Rapunzel.</span>
+            </p>
+            <p begin="00:01:03.640" end="00:01:07.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Den begynner med solen.</span>
+            </p>
+            <p begin="00:01:07.640" end="00:01:12.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det var en gang en enkel dråpe</span>
+                <br></br>
+                <span>sollys som falt fra himmelen.</span>
+            </p>
+            <p begin="00:01:12.480" end="00:01:18.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Fra denne lille soldråpen vokste det</span>
+                <br></br>
+                <span>frem en magisk, gyllen blomst.</span>
+            </p>
+            <p begin="00:01:18.720" end="00:01:23.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Den kunne helbrede</span>
+                <br></br>
+                <span>de syke og skadde.</span>
+            </p>
+            <p begin="00:01:23.360" end="00:01:29.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ser du den gamle dama?</span>
+                <br></br>
+                <span>Henne må du huske, hun er viktig.</span>
+            </p>
+            <p begin="00:01:29.440" end="00:01:34.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Et par århundrer frem i tid</span>
+                <br></br>
+                <span>så et kongerike dagens lys.</span>
+            </p>
+            <p begin="00:01:34.520" end="00:01:38.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kongeriket ble styrt</span>
+                <br></br>
+                <span>av et elsket kongepar.</span>
+            </p>
+            <p begin="00:01:38.480" end="00:01:41.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dronningen skulle snart føde.</span>
+            </p>
+            <p begin="00:01:41.840" end="00:01:45.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun ble syk. Svært syk.</span>
+            </p>
+            <p begin="00:01:45.400" end="00:01:49.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hun hadde ikke mye tid igjen,</span>
+                <br></br>
+                <span>og folk lette etter et mirakel.</span>
+            </p>
+            <p begin="00:01:49.760" end="00:01:53.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>I dette tilfellet var det</span>
+                <br></br>
+                <span>en magisk, gyllen blomst.</span>
+            </p>
+            <p begin="00:01:53.400" end="00:01:56.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg sa jo at hun var viktig!</span>
+            </p>
+            <p begin="00:01:56.160" end="00:01:58.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Istedenfor å dele solens gave,―</span>
+            </p>
+            <p begin="00:01:58.480" end="00:02:04.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―brukte mor Gothel kraften selv for</span>
+                <br></br>
+                <span>å holde seg ung i flere hundre år.</span>
+            </p>
+            <p begin="00:02:04.440" end="00:02:07.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Alt hun måtte gjøre var</span>
+                <br></br>
+                <span>å synge en spesiell sang.</span>
+            </p>
+            <p begin="00:02:08.120" end="00:02:12.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Blomst med solens kraft</span>
+            </p>
+            <p begin="00:02:12.520" end="00:02:16.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gi meg lyset ditt</span>
+            </p>
+            <p begin="00:02:16.280" end="00:02:19.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gjem bort tidens tann</span>
+            </p>
+            <p begin="00:02:19.880" end="00:02:23.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="00:02:23.600" end="00:02:26.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Som før var mitt</span>
+            </p>
+            <p begin="00:02:26.720" end="00:02:30.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ja, dere forstår. Hun synger</span>
+                <br></br>
+                <span>og blir ung. Nifst, ikke sant?</span>
+            </p>
+            <p begin="00:02:41.200" end="00:02:43.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vi fant den!</span>
+            </p>
+            <p begin="00:02:48.080" end="00:02:52.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Den gylne blomstens kraft</span>
+                <br></br>
+                <span>gjorde dronningen frisk.</span>
+            </p>
+            <p begin="00:02:53.360" end="00:02:58.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>En frisk liten prinsesse ble født.</span>
+                <br></br>
+                <span>Hun hadde nydelig gyllent hår.</span>
+            </p>
+            <p begin="00:03:06.800" end="00:03:11.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg skal gi deg et hint.</span>
+                <br></br>
+                <span>Det der er Rapunzel.</span>
+            </p>
+            <p begin="00:03:11.280" end="00:03:15.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>For å feire fødselen sendte de</span>
+                <br></br>
+                <span>en lykt opp mot himmelen.</span>
+            </p>
+            <p begin="00:03:21.000" end="00:03:24.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>I det øyeblikket var alt perfekt.</span>
+            </p>
+            <p begin="00:03:26.800" end="00:03:29.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Men så tok øyeblikket slutt.</span>
+            </p>
+            <p begin="00:03:29.880" end="00:03:35.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Blomst med solens kraft</span>
+            </p>
+            <p begin="00:03:35.680" end="00:03:39.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gi meg lyset ditt</span>
+            </p>
+            <p begin="00:03:39.320" end="00:03:41.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gjem bort tidens...</span>
+            </p>
+            <p begin="00:03:47.880" end="00:03:53.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gothel brøt seg inn på slottet,</span>
+                <br></br>
+                <span>stjal jentebarnet og forsvant.</span>
+            </p>
+            <p begin="00:03:54.480" end="00:03:57.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Alle i kongeriket lette,</span>
+                <br></br>
+                <span>men de fant henne aldri.</span>
+            </p>
+            <p begin="00:03:57.800" end="00:04:02.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dypt inne i skogen, i et skjult tårn,</span>
+                <br></br>
+                <span>oppdro Gothel barnet som sitt eget.</span>
+            </p>
+            <p begin="00:04:02.760" end="00:04:05.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Redd det som før var</span>
+            </p>
+            <p begin="00:04:05.400" end="00:04:09.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="00:04:09.320" end="00:04:11.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Som før var mitt</span>
+            </p>
+            <p begin="00:04:11.880" end="00:04:14.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gothel hadde nå</span>
+                <br></br>
+                <span>en ny magisk blomst.</span>
+            </p>
+            <p begin="00:04:14.480" end="00:04:17.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Denne gangen skulle</span>
+                <br></br>
+                <span>hun holde den godt skjult.</span>
+            </p>
+            <p begin="00:04:17.680" end="00:04:20.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvorfor får jeg ikke gå ut?</span>
+            </p>
+            <p begin="00:04:20.320" end="00:04:25.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Verden der ute er farlig og fylt med</span>
+                <br></br>
+                <span>fæle og egoistiske mennesker.</span>
+            </p>
+            <p begin="00:04:25.360" end="00:04:28.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du må bli her,</span>
+                <br></br>
+                <span>hvor du er trygg.</span>
+            </p>
+            <p begin="00:04:28.360" end="00:04:31.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Forstår du, lille blomst?</span>
+                <br></br>
+                <span>―Ja, mamma.</span>
+            </p>
+            <p begin="00:04:34.480" end="00:04:38.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men tårnets vegger</span>
+                <br></br>
+                <span>kunne ikke skjule alt.</span>
+            </p>
+            <p begin="00:04:42.080" end="00:04:46.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvert år på bursdagen hennes slapp</span>
+                <br></br>
+                <span>kongeparet ut tusenvis av lykter.</span>
+            </p>
+            <p begin="00:04:47.000" end="00:04:52.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>De håpte at deres forsvunne datter</span>
+                <br></br>
+                <span>en gang ville komme tilbake.</span>
+            </p>
+            <p begin="00:05:13.280" end="00:05:18.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Pascal gjemmer seg nok ikke her...</span>
+            </p>
+            <p begin="00:05:19.640" end="00:05:21.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Tok deg!</span>
+            </p>
+            <p begin="00:05:22.480" end="00:05:24.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Da er stillingen 22 til meg.</span>
+            </p>
+            <p begin="00:05:24.920" end="00:05:28.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva med 23 av 45?</span>
+            </p>
+            <p begin="00:05:28.200" end="00:05:30.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva vil du gjøre, da?</span>
+            </p>
+            <p begin="00:05:32.920" end="00:05:37.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg tror ikke det, du. Jeg liker meg</span>
+                <br></br>
+                <span>her inne. Det gjør du også.</span>
+            </p>
+            <p begin="00:05:39.600" end="00:05:43.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kom igjen, Pascal.</span>
+                <br></br>
+                <span>Det er ikke så ille der inne.</span>
+            </p>
+            <p begin="00:05:55.040" end="00:05:58.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Klokka er sju,</span>
+                <br></br>
+                <span>og morgenens plikter kaller</span>
+            </p>
+            <p begin="00:05:59.480" end="00:06:03.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg jobber i vei</span>
+                <br></br>
+                <span>og koster til det blir rent</span>
+            </p>
+            <p begin="00:06:03.360" end="00:06:07.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Polering, voksing,</span>
+                <br></br>
+                <span>klesvasken meg tilfaller</span>
+            </p>
+            <p begin="00:06:07.280" end="00:06:11.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Fei litt mer, å nei,</span>
+                <br></br>
+                <span>nå har det jommen blitt sent</span>
+            </p>
+            <p begin="00:06:11.520" end="00:06:15.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg finner frem en bok,</span>
+                <br></br>
+                <span>nei, kanskje tre får&#39;n si</span>
+            </p>
+            <p begin="00:06:15.920" end="00:06:19.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og jeg maler litt</span>
+                <br></br>
+                <span>på tårnets galleri</span>
+            </p>
+            <p begin="00:06:20.120" end="00:06:24.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gitarspilling og strikk,</span>
+                <br></br>
+                <span>lage litt mat, men si</span>
+            </p>
+            <p begin="00:06:24.320" end="00:06:29.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Når får jeg starte mitt eget liv?</span>
+            </p>
+            <p begin="00:06:37.600" end="00:06:41.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Lunsjen er spist,</span>
+                <br></br>
+                <span>et puslespill og litt baking</span>
+            </p>
+            <p begin="00:06:41.720" end="00:06:45.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Lage en maske,</span>
+                <br></br>
+                <span>danse ballett og sjakk</span>
+            </p>
+            <p begin="00:06:46.120" end="00:06:49.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Keramikkunst,</span>
+                <br></br>
+                <span>buktaleri og lyslaging</span>
+            </p>
+            <p begin="00:06:49.840" end="00:06:54.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Så en strekk, mal en flekk,</span>
+                <br></br>
+                <span>opp på tur, sy sikksakk</span>
+            </p>
+            <p begin="00:06:54.440" end="00:06:58.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Enda en lesestund,</span>
+                <br></br>
+                <span>hvis jeg har tid til det</span>
+            </p>
+            <p begin="00:06:58.320" end="00:07:02.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Enda et maleri</span>
+                <br></br>
+                <span>plass har jeg, bare se</span>
+            </p>
+            <p begin="00:07:02.560" end="00:07:06.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg børster håret mitt,</span>
+                <br></br>
+                <span>se hvordan jeg kan gre</span>
+            </p>
+            <p begin="00:07:06.800" end="00:07:11.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Her jeg er uten alternativ</span>
+            </p>
+            <p begin="00:07:11.400" end="00:07:16.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og jeg undrer og undrer</span>
+                <br></br>
+                <span>undrer og undrer</span>
+            </p>
+            <p begin="00:07:16.320" end="00:07:19.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Får jeg mitt eget liv?</span>
+            </p>
+            <p begin="00:07:21.360" end="00:07:25.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>I morgenkveld</span>
+            </p>
+            <p begin="00:07:25.320" end="00:07:29.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Lysene står</span>
+            </p>
+            <p begin="00:07:29.480" end="00:07:32.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Og dette skjer</span>
+            </p>
+            <p begin="00:07:32.600" end="00:07:38.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hver gang jeg fyller år</span>
+            </p>
+            <p begin="00:07:38.720" end="00:07:42.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Lever de godt</span>
+            </p>
+            <p begin="00:07:42.880" end="00:07:47.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Der gløden er fra</span>
+            </p>
+            <p begin="00:07:47.720" end="00:07:51.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå er jeg eldre</span>
+            </p>
+            <p begin="00:07:51.720" end="00:07:57.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kanskje mor nå lar meg dra...</span>
+            </p>
+            <p begin="00:08:18.880" end="00:08:21.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Denne utsikten kan jeg venne meg til.</span>
+            </p>
+            <p begin="00:08:21.880" end="00:08:25.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Kom, Rider!</span>
+                <br></br>
+                <span>―Et øyeblikk...</span>
+            </p>
+            <p begin="00:08:25.280" end="00:08:28.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Nå har jeg vent meg til den.</span>
+                <br></br>
+                <span>Jeg vil ha et slott.</span>
+            </p>
+            <p begin="00:08:28.800" end="00:08:31.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Etter dette kan du</span>
+                <br></br>
+                <span>kjøpe deg ditt eget slott.</span>
+            </p>
+            <p begin="00:08:43.840" end="00:08:46.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Høysnue?</span>
+                <br></br>
+                <span>―Ja.</span>
+            </p>
+            <p begin="00:08:48.920" end="00:08:51.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hei, du! Vent!</span>
+            </p>
+            <p begin="00:08:52.120" end="00:08:55.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ser dere ikke for dere</span>
+                <br></br>
+                <span>meg bo i et slott?</span>
+            </p>
+            <p begin="00:08:55.800" end="00:09:01.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Tenk alt vi har sett, og klokken er</span>
+                <br></br>
+                <span>bare åtte. Dette blir en stor dag!</span>
+            </p>
+            <p begin="00:09:02.440" end="00:09:06.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette blir en stor dag, Pascal.</span>
+            </p>
+            <p begin="00:09:06.840" end="00:09:09.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg skal endelig spørre henne!</span>
+            </p>
+            <p begin="00:09:09.600" end="00:09:11.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel?</span>
+            </p>
+            <p begin="00:09:11.760" end="00:09:15.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Slipp ned håret ditt.</span>
+                <br></br>
+                <span>―Nå er tiden inne.</span>
+            </p>
+            <p begin="00:09:17.240" end="00:09:20.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg vet det. Ikke la henne se deg.</span>
+            </p>
+            <p begin="00:09:22.280" end="00:09:26.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Rapunzel? Jeg blir ikke</span>
+                <br></br>
+                <span>noe yngre her nede.</span>
+            </p>
+            <p begin="00:09:26.840" end="00:09:28.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg kommer, mor.</span>
+            </p>
+            <p begin="00:09:51.680" end="00:09:54.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hei! Velkommen hjem, mor.</span>
+            </p>
+            <p begin="00:09:54.840" end="00:10:00.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Tenk at du gjør det der</span>
+                <br></br>
+                <span>hver eneste dag!</span>
+            </p>
+            <p begin="00:10:00.560" end="00:10:05.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Du må være helt utmattet.</span>
+                <br></br>
+                <span>―Det er ikke store saken.</span>
+            </p>
+            <p begin="00:10:05.360" end="00:10:10.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Så hvorfor tar det da så lang tid?</span>
+                <br></br>
+                <span>Jeg bare tuller, kjære.</span>
+            </p>
+            <p begin="00:10:12.200" end="00:10:16.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vel... Du vet at morgendagen er stor.</span>
+            </p>
+            <p begin="00:10:16.560" end="00:10:19.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se i speilet, Rapunzel.</span>
+                <br></br>
+                <span>Vet du hva jeg ser?</span>
+            </p>
+            <p begin="00:10:19.720" end="00:10:24.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>En sterk, selvsikker</span>
+                <br></br>
+                <span>og vakker ung dame.</span>
+            </p>
+            <p begin="00:10:24.680" end="00:10:26.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Å, se! Du også er der.</span>
+            </p>
+            <p begin="00:10:26.840" end="00:10:30.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg bare tuller.</span>
+                <br></br>
+                <span>Ikke se så alvorlig på alt.</span>
+            </p>
+            <p begin="00:10:30.760" end="00:10:33.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ok... I morgen er det...</span>
+            </p>
+            <p begin="00:10:33.600" end="00:10:38.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mor er litt trøtt, Rapunzel.</span>
+                <br></br>
+                <span>Kan du synge for meg, kjære?</span>
+            </p>
+            <p begin="00:10:39.000" end="00:10:41.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så klart, mor.</span>
+            </p>
+            <p begin="00:10:49.280" end="00:10:52.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Blomst med solens kraft...</span>
+                <br></br>
+                <span>―Vent!</span>
+            </p>
+            <p begin="00:10:52.480" end="00:10:56.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gjem bort tidens tann,</span>
+                <br></br>
+                <span>hent frem det som var mitt</span>
+            </p>
+            <p begin="00:10:56.200" end="00:11:00.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Rapunzel!</span>
+                <br></br>
+                <span>―Morgendagen blir stor.</span>
+            </p>
+            <p begin="00:11:00.680" end="00:11:04.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er fødselsdagen min!</span>
+            </p>
+            <p begin="00:11:04.840" end="00:11:09.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det kan ikke stemme. Den var i fjor.</span>
+            </p>
+            <p begin="00:11:09.600" end="00:11:14.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ja, det er det rare med fødselsdager.</span>
+                <br></br>
+                <span>De kommer hvert år.</span>
+            </p>
+            <p begin="00:11:14.600" end="00:11:19.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg blir 18, og jeg ville spørre...</span>
+            </p>
+            <p begin="00:11:19.840" end="00:11:24.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det jeg virkelig vil ha... Det jeg</span>
+                <br></br>
+                <span>har ønsket meg lenge faktisk...</span>
+            </p>
+            <p begin="00:11:24.440" end="00:11:29.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Slutt å mumle, Rapunzel.</span>
+                <br></br>
+                <span>Du vet hva jeg synes om det.</span>
+            </p>
+            <p begin="00:11:29.160" end="00:11:34.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er svært irriterende!</span>
+                <br></br>
+                <span>Jeg bare tuller. Jeg er glad i deg.</span>
+            </p>
+            <p begin="00:11:39.480" end="00:11:44.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg vil se de svevende lysene.</span>
+            </p>
+            <p begin="00:11:44.480" end="00:11:48.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg hadde håpet du kunne</span>
+                <br></br>
+                <span>ta meg med til lysene.</span>
+            </p>
+            <p begin="00:11:48.160" end="00:11:51.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Å... Du mener stjernene.</span>
+            </p>
+            <p begin="00:11:51.240" end="00:11:56.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har mitt eget stjernekart,</span>
+                <br></br>
+                <span>og de dukker opp på samme sted.</span>
+            </p>
+            <p begin="00:11:56.840" end="00:12:02.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men disse dukker kun opp</span>
+                <br></br>
+                <span>på fødselsdagen min.</span>
+            </p>
+            <p begin="00:12:02.600" end="00:12:08.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er som om de er mine.</span>
+            </p>
+            <p begin="00:12:08.360" end="00:12:13.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg må se dem, mor,</span>
+                <br></br>
+                <span>og ikke bare fra vinduet.</span>
+            </p>
+            <p begin="00:12:13.760" end="00:12:16.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg må vite hva de er.</span>
+            </p>
+            <p begin="00:12:16.400" end="00:12:20.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vil du ut? Men Rapunzel, da...</span>
+            </p>
+            <p begin="00:12:20.760" end="00:12:24.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Se på deg, så spak og så sped</span>
+            </p>
+            <p begin="00:12:24.400" end="00:12:28.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Fortsatt kun en spire, lille frø</span>
+            </p>
+            <p begin="00:12:28.160" end="00:12:31.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du vet hvorfor</span>
+                <br></br>
+                <span>tårnet er vårt hjemsted</span>
+            </p>
+            <p begin="00:12:31.480" end="00:12:36.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nettopp, her får du ro og fred</span>
+            </p>
+            <p begin="00:12:36.320" end="00:12:39.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg visste nok at dagen ville komme</span>
+            </p>
+            <p begin="00:12:39.640" end="00:12:42.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå vil du oppleve livets fest</span>
+            </p>
+            <p begin="00:12:43.000" end="00:12:46.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Snart er du på vei,</span>
+                <br></br>
+                <span>stol på meg</span>
+            </p>
+            <p begin="00:12:46.800" end="00:12:51.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Mamma vet best</span>
+            </p>
+            <p begin="00:12:53.040" end="00:12:55.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mamma vet best,</span>
+                <br></br>
+                <span>bruk mammas metoder</span>
+            </p>
+            <p begin="00:12:55.680" end="00:12:58.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ute er det nifst, brutalt!</span>
+            </p>
+            <p begin="00:12:58.920" end="00:13:01.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mamma vet best,</span>
+                <br></br>
+                <span>og mamma formoder</span>
+            </p>
+            <p begin="00:13:01.880" end="00:13:04.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Noe vil helt klart gå galt</span>
+            </p>
+            <p begin="00:13:04.640" end="00:13:07.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>En kjeltring og en tyv,</span>
+                <br></br>
+                <span>brennesle og kvikksand!</span>
+            </p>
+            <p begin="00:13:07.840" end="00:13:10.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kannibaler, slanger ― pest!</span>
+            </p>
+            <p begin="00:13:10.880" end="00:13:13.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Store ekle kryp,</span>
+                <br></br>
+                <span>menn med skarpe tenner</span>
+            </p>
+            <p begin="00:13:13.600" end="00:13:16.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hold nå opp, jeg går fra vettet</span>
+            </p>
+            <p begin="00:13:17.120" end="00:13:19.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mamma er her,</span>
+                <br></br>
+                <span>hun vil deg beskytte</span>
+            </p>
+            <p begin="00:13:20.040" end="00:13:22.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kjære, ta imot min gest</span>
+            </p>
+            <p begin="00:13:23.120" end="00:13:26.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ikke bli lei,</span>
+                <br></br>
+                <span>mamma bryr seg</span>
+            </p>
+            <p begin="00:13:27.080" end="00:13:32.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Mamma vet best</span>
+            </p>
+            <p begin="00:13:33.920" end="00:13:36.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mamma vet best,</span>
+                <br></br>
+                <span>det er ingen skrøne</span>
+            </p>
+            <p begin="00:13:36.800" end="00:13:39.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du vil aldri klare deg</span>
+            </p>
+            <p begin="00:13:39.600" end="00:13:42.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se så dårlig kledd,</span>
+                <br></br>
+                <span>umoden, en kløne</span>
+            </p>
+            <p begin="00:13:42.480" end="00:13:45.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>De vil bare more seg</span>
+            </p>
+            <p begin="00:13:45.400" end="00:13:48.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Lettlurt og naiv</span>
+                <br></br>
+                <span>rett og slett ulaglig</span>
+            </p>
+            <p begin="00:13:48.360" end="00:13:51.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vimsete og ganske vag</span>
+            </p>
+            <p begin="00:13:51.280" end="00:13:53.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og, har du sett,</span>
+                <br></br>
+                <span>vekten øker daglig</span>
+            </p>
+            <p begin="00:13:54.120" end="00:13:57.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er bare snill og saklig</span>
+            </p>
+            <p begin="00:13:57.720" end="00:14:00.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mamma hun forstår,</span>
+                <br></br>
+                <span>mamma vil jo hjelpe</span>
+            </p>
+            <p begin="00:14:01.040" end="00:14:05.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>En ting ønsker jeg meg mest</span>
+            </p>
+            <p begin="00:14:09.600" end="00:14:13.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Rapunzel?</span>
+                <br></br>
+                <span>―Ja?</span>
+            </p>
+            <p begin="00:14:13.720" end="00:14:17.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ikke spør meg om</span>
+                <br></br>
+                <span>å få forlate tårnet igjen.</span>
+            </p>
+            <p begin="00:14:19.560" end="00:14:25.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Greit, mor.</span>
+                <br></br>
+                <span>―Jeg er så glad i deg, kjære.</span>
+            </p>
+            <p begin="00:14:25.360" end="00:14:30.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg er enda mer glad i deg.</span>
+                <br></br>
+                <span>―Jeg er aller mest glad i deg.</span>
+            </p>
+            <p begin="00:14:30.400" end="00:14:36.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ja, slik blir det,</span>
+                <br></br>
+                <span>ellers svir det</span>
+            </p>
+            <p begin="00:14:36.160" end="00:14:41.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Mamma vet best</span>
+            </p>
+            <p begin="00:14:44.240" end="00:14:49.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ha det bra!</span>
+                <br></br>
+                <span>Vi ses snart, lille blomst!</span>
+            </p>
+            <p begin="00:14:49.480" end="00:14:51.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg blir her...</span>
+            </p>
+            <p begin="00:15:03.040" end="00:15:05.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>ETTERLYST</span>
+                <br></br>
+                <span>DØD ELLER LEVENDE</span>
+            </p>
+            <p begin="00:15:13.720" end="00:15:19.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, nei, nei! Dette er forferdelig!</span>
+            </p>
+            <p begin="00:15:20.560" end="00:15:24.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Nesen min blir alltid feil!</span>
+                <br></br>
+                <span>―Hvem bryr seg?</span>
+            </p>
+            <p begin="00:15:24.200" end="00:15:28.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er lett for dere å si.</span>
+                <br></br>
+                <span>Dere ser fantastiske ut.</span>
+            </p>
+            <p begin="00:15:41.440" end="00:15:44.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gi meg en dytt, så drar jeg dere opp.</span>
+            </p>
+            <p begin="00:15:46.080" end="00:15:48.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gi oss vesken først.</span>
+            </p>
+            <p begin="00:15:48.800" end="00:15:53.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Etter alt vi har vært gjennom sammen,</span>
+                <br></br>
+                <span>og så stoler dere ikke på meg?</span>
+            </p>
+            <p begin="00:15:56.360" end="00:15:57.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Au.</span>
+            </p>
+            <p begin="00:16:05.280" end="00:16:10.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hjelp oss opp, kjekken.</span>
+                <br></br>
+                <span>―Beklager. Jeg har hendene fulle.</span>
+            </p>
+            <p begin="00:16:10.640" end="00:16:13.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva? Rider!</span>
+            </p>
+            <p begin="00:16:19.760" end="00:16:23.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Få tak i den vesken!</span>
+                <br></br>
+                <span>―Ja, sir!</span>
+            </p>
+            <p begin="00:16:38.800" end="00:16:41.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå har vi ham, Maximus!</span>
+            </p>
+            <p begin="00:16:54.080" end="00:16:56.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kom igjen, ditt øk, hypp!</span>
+            </p>
+            <p begin="00:16:58.440" end="00:17:02.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei... Nei! Slutt!</span>
+            </p>
+            <p begin="00:17:02.160" end="00:17:05.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Få den!</span>
+            </p>
+            <p begin="00:18:43.120" end="00:18:45.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endelig alene.</span>
+            </p>
+            <p begin="00:20:16.320" end="00:20:19.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har en person i skapet mitt.</span>
+            </p>
+            <p begin="00:20:19.520" end="00:20:21.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har en person i skapet mitt.</span>
+            </p>
+            <p begin="00:20:23.360" end="00:20:27.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har en person i skapet mitt!</span>
+            </p>
+            <p begin="00:20:29.440" end="00:20:31.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>For svak til å klare meg selv, sa du?</span>
+            </p>
+            <p begin="00:20:32.120" end="00:20:35.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Fortell det til stekepannen min.</span>
+            </p>
+            <p begin="00:21:14.520" end="00:21:16.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel!</span>
+            </p>
+            <p begin="00:21:18.120" end="00:21:21.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Slipp ned håret ditt!</span>
+                <br></br>
+                <span>―Et øyeblikk, mor!</span>
+            </p>
+            <p begin="00:21:21.840" end="00:21:26.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har en stor overraskelse!</span>
+                <br></br>
+                <span>―Jeg også har en!</span>
+            </p>
+            <p begin="00:21:26.200" end="00:21:30.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Min overraskelse er nok større!</span>
+                <br></br>
+                <span>―Det tviler jeg på.</span>
+            </p>
+            <p begin="00:21:32.240" end="00:21:35.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg fant pastinakker.</span>
+                <br></br>
+                <span>Nå blir det hasselnøttsuppe!</span>
+            </p>
+            <p begin="00:21:35.600" end="00:21:37.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Livretten din! Overraskelse!</span>
+            </p>
+            <p begin="00:21:38.000" end="00:21:42.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vel... Jeg har noe å fortelle deg.</span>
+                <br></br>
+                <span>―Jeg liker ikke å dra etter krangler.</span>
+            </p>
+            <p begin="00:21:43.080" end="00:21:47.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Særlig når jeg er helt uskyldig.</span>
+                <br></br>
+                <span>―Jeg har tenkt på det du sa.</span>
+            </p>
+            <p begin="00:21:47.920" end="00:21:52.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Du snakker vel ikke om stjernene?</span>
+                <br></br>
+                <span>―Svevende lys. Det kommer...</span>
+            </p>
+            <p begin="00:21:52.800" end="00:21:55.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hadde vi ikke lagt det fra oss?</span>
+            </p>
+            <p begin="00:21:55.360" end="00:21:59.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er bare at du tror at</span>
+                <br></br>
+                <span>jeg ikke vil overleve der ute.</span>
+            </p>
+            <p begin="00:21:59.840" end="00:22:02.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg vet at du ikke vil overleve.</span>
+            </p>
+            <p begin="00:22:03.120" end="00:22:06.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvis du bare...</span>
+                <br></br>
+                <span>―Vi er ferdige her, Rapunzel.</span>
+            </p>
+            <p begin="00:22:06.320" end="00:22:09.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Stol på meg, jeg vet hva...</span>
+                <br></br>
+                <span>―Rapunzel.</span>
+            </p>
+            <p begin="00:22:09.600" end="00:22:15.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Nok om lysene, Rapunzel!</span>
+                <br></br>
+                <span>Du får aldri forlate dette tårnet!</span>
+            </p>
+            <p begin="00:22:21.680" end="00:22:25.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Flott. Nå er plutselig jeg skurken.</span>
+            </p>
+            <p begin="00:22:37.040" end="00:22:40.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg ville bare si at...</span>
+            </p>
+            <p begin="00:22:40.480" end="00:22:45.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har bursdagsønsket mitt klart.</span>
+                <br></br>
+                <span>―Så hva er det?</span>
+            </p>
+            <p begin="00:22:45.240" end="00:22:50.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ny maling. Den du laget av</span>
+                <br></br>
+                <span>de hvite skjellene du gav meg.</span>
+            </p>
+            <p begin="00:22:50.720" end="00:22:55.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det blir en svært lang tur.</span>
+                <br></br>
+                <span>Det vil ta nesten tre dager.</span>
+            </p>
+            <p begin="00:22:55.720" end="00:23:00.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg trodde bare det var</span>
+                <br></br>
+                <span>et bedre ønske enn stjernene.</span>
+            </p>
+            <p begin="00:23:04.680" end="00:23:07.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Er du sikker på at</span>
+                <br></br>
+                <span>du vil klare deg alene?</span>
+            </p>
+            <p begin="00:23:07.760" end="00:23:11.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet jeg er trygg</span>
+                <br></br>
+                <span>så lenge jeg blir her oppe.</span>
+            </p>
+            <p begin="00:23:18.040" end="00:23:21.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg kommer tilbake om tre dager.</span>
+            </p>
+            <p begin="00:23:21.480" end="00:23:24.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er glad i deg, kjære.</span>
+            </p>
+            <p begin="00:23:24.280" end="00:23:29.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg er enda mer glad i deg.</span>
+                <br></br>
+                <span>―Jeg er aller mest glad i deg.</span>
+            </p>
+            <p begin="00:23:48.760" end="00:23:51.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Greit...</span>
+            </p>
+            <p begin="00:24:33.600" end="00:24:36.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Er dette hår?</span>
+            </p>
+            <p begin="00:24:37.000" end="00:24:39.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>All motstand er nytteløs!</span>
+            </p>
+            <p begin="00:24:43.440" end="00:24:47.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet hvorfor du er her.</span>
+                <br></br>
+                <span>Jeg er ikke redd deg.</span>
+            </p>
+            <p begin="00:24:47.880" end="00:24:49.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>At det var?</span>
+            </p>
+            <p begin="00:24:57.800" end="00:25:01.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvem er du?</span>
+                <br></br>
+                <span>Hvordan fant du meg?</span>
+            </p>
+            <p begin="00:25:04.880" end="00:25:07.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvem er du, og hvordan fant du meg?</span>
+            </p>
+            <p begin="00:25:11.400" end="00:25:15.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet ei hvem De er,</span>
+                <br></br>
+                <span>ei heller hvordan jeg fant Dem.</span>
+            </p>
+            <p begin="00:25:15.400" end="00:25:19.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Men om jeg får lov... Hei.</span>
+            </p>
+            <p begin="00:25:22.400" end="00:25:24.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva skjer? Jeg heter Flynn Rider.</span>
+            </p>
+            <p begin="00:25:26.440" end="00:25:29.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva har du gjort på i dag?</span>
+            </p>
+            <p begin="00:25:29.240" end="00:25:32.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvem andre vet</span>
+                <br></br>
+                <span>hvor jeg er, Flynn Rider?</span>
+            </p>
+            <p begin="00:25:32.920" end="00:25:34.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Greit, gullhår.</span>
+                <br></br>
+                <span>―Rapunzel.</span>
+            </p>
+            <p begin="00:25:35.120" end="00:25:41.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Prosit. Jeg løp gjennom skogen.</span>
+                <br></br>
+                <span>Jeg fant tårnet ditt, og...</span>
+            </p>
+            <p begin="00:25:42.000" end="00:25:44.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei! Hvor er vesken min?</span>
+            </p>
+            <p begin="00:25:44.640" end="00:25:47.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har gjemt den,</span>
+                <br></br>
+                <span>og du finner den aldri.</span>
+            </p>
+            <p begin="00:25:50.360" end="00:25:52.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Den ligger i den krukka, sant?</span>
+            </p>
+            <p begin="00:25:59.120" end="00:26:00.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kan du gi deg?</span>
+            </p>
+            <p begin="00:26:00.880" end="00:26:04.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Denne gangen finner du den aldri.</span>
+            </p>
+            <p begin="00:26:04.320" end="00:26:07.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva er det du vil med håret mitt?</span>
+            </p>
+            <p begin="00:26:07.680" end="00:26:10.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vil du klippe det? Selge det?</span>
+                <br></br>
+                <span>―Nei!</span>
+            </p>
+            <p begin="00:26:10.560" end="00:26:15.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det eneste jeg vil gjøre</span>
+                <br></br>
+                <span>er å komme meg unna det.</span>
+            </p>
+            <p begin="00:26:15.480" end="00:26:19.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vent... Vil du ikke ha håret mitt?</span>
+            </p>
+            <p begin="00:26:19.280" end="00:26:24.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hva skal jeg med håret ditt? Jeg ble</span>
+                <br></br>
+                <span>jaget gjennom skogen og så tårnet.</span>
+            </p>
+            <p begin="00:26:24.720" end="00:26:27.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Snakker du sant nå?</span>
+                <br></br>
+                <span>―Ja!</span>
+            </p>
+            <p begin="00:26:39.480" end="00:26:44.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet at noen må følge meg.</span>
+                <br></br>
+                <span>Jeg tror han snakker sant.</span>
+            </p>
+            <p begin="00:26:44.760" end="00:26:48.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Han har ikke hoggtenner.</span>
+                <br></br>
+                <span>Jeg har jo ikke noe annet valg!</span>
+            </p>
+            <p begin="00:26:49.080" end="00:26:55.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Greit, Flynn Rider.</span>
+                <br></br>
+                <span>Jeg vil inngå en avtale med deg.</span>
+            </p>
+            <p begin="00:26:56.720" end="00:26:59.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vet du hva dette er?</span>
+            </p>
+            <p begin="00:26:59.680" end="00:27:02.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Lyktene de sender opp for prinsessen?</span>
+            </p>
+            <p begin="00:27:02.720" end="00:27:07.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Lykter? Jeg visste</span>
+                <br></br>
+                <span>det ikke var stjerner.</span>
+            </p>
+            <p begin="00:27:07.560" end="00:27:13.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>I morgen sender de opp disse lyktene.</span>
+            </p>
+            <p begin="00:27:13.680" end="00:27:18.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du skal være guiden min og føre meg</span>
+                <br></br>
+                <span>til dem. Så tar du meg trygt hjem.</span>
+            </p>
+            <p begin="00:27:18.680" end="00:27:24.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kun da får du tilbake vesken din.</span>
+                <br></br>
+                <span>Det er vilkårene av avtalen.</span>
+            </p>
+            <p begin="00:27:24.320" end="00:27:27.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja... Det går ikke.</span>
+            </p>
+            <p begin="00:27:28.080" end="00:27:33.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kongeriket og jeg kommer ikke akkurat</span>
+                <br></br>
+                <span>overens for tiden, så du må bli her.</span>
+            </p>
+            <p begin="00:27:40.200" end="00:27:43.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Noe brakte deg hit, Flynn Rider.</span>
+            </p>
+            <p begin="00:27:43.440" end="00:27:47.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Kall det hva du vil. Skjebnen...</span>
+                <br></br>
+                <span>―En hest.</span>
+            </p>
+            <p begin="00:27:47.640" end="00:27:50.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har valgt å stole på deg.</span>
+                <br></br>
+                <span>―Et grusomt valg.</span>
+            </p>
+            <p begin="00:27:51.120" end="00:27:53.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Stol på meg når jeg sier dette:</span>
+            </p>
+            <p begin="00:27:55.760" end="00:27:59.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du kan rive tårnet i fillebiter,―</span>
+            </p>
+            <p begin="00:27:59.320" end="00:28:03.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―men uten min hjelp finner du</span>
+                <br></br>
+                <span>aldri den dyrebare vesken din.</span>
+            </p>
+            <p begin="00:28:05.320" end="00:28:09.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Så hvis jeg tar deg med</span>
+                <br></br>
+                <span>til lyktene og tilbake...</span>
+            </p>
+            <p begin="00:28:09.840" end="00:28:13.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―...så gir du meg vesken min?</span>
+                <br></br>
+                <span>―Jeg lover.</span>
+            </p>
+            <p begin="00:28:14.680" end="00:28:19.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og når jeg lover noe,</span>
+                <br></br>
+                <span>så bryter jeg aldri det løftet.</span>
+            </p>
+            <p begin="00:28:21.800" end="00:28:23.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Aldri!</span>
+            </p>
+            <p begin="00:28:26.120" end="00:28:30.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hør her... Jeg ville ikke gjøre</span>
+                <br></br>
+                <span>dette, men jeg har ikke noe valg.</span>
+            </p>
+            <p begin="00:28:30.840" end="00:28:32.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Møt bedåreren Flynn.</span>
+            </p>
+            <p begin="00:28:39.880" end="00:28:43.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er visst ikke meg selv i dag.</span>
+            </p>
+            <p begin="00:28:43.800" end="00:28:45.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Greit! Vi drar til lyktene!</span>
+            </p>
+            <p begin="00:28:46.080" end="00:28:50.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Virkelig?</span>
+                <br></br>
+                <span>―Bedåreren er nede for telling.</span>
+            </p>
+            <p begin="00:28:56.240" end="00:28:58.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kommer du, gullhår?</span>
+            </p>
+            <p begin="00:29:07.560" end="00:29:12.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se så nær verden er,</span>
+                <br></br>
+                <span>jeg er like ved den</span>
+            </p>
+            <p begin="00:29:12.400" end="00:29:16.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se på den da, så stor,</span>
+                <br></br>
+                <span>tør jeg hoppe ned?</span>
+            </p>
+            <p begin="00:29:17.160" end="00:29:21.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se på meg, endelig</span>
+                <br></br>
+                <span>jeg må bare se den</span>
+            </p>
+            <p begin="00:29:21.520" end="00:29:26.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Bør jeg... Nei! Jeg gjør det!</span>
+            </p>
+            <p begin="00:29:55.080" end="00:30:01.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Lukten av gress og jord,</span>
+                <br></br>
+                <span>drømmen den var feilfri</span>
+            </p>
+            <p begin="00:30:01.760" end="00:30:08.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>En deilig sommerbris,</span>
+                <br></br>
+                <span>hva er det den vil si?</span>
+            </p>
+            <p begin="00:30:08.520" end="00:30:15.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>For alle første gang</span>
+                <br></br>
+                <span>er jeg fullstendig fri</span>
+            </p>
+            <p begin="00:30:15.160" end="00:30:20.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Nå kan jeg løpe og jage</span>
+                <br></br>
+                <span>og danse, jeg rømmer</span>
+            </p>
+            <p begin="00:30:20.680" end="00:30:24.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og hoppe og sprette</span>
+                <br></br>
+                <span>hår flyter, blod strømmer</span>
+            </p>
+            <p begin="00:30:24.680" end="00:30:29.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og plaske og brøle</span>
+                <br></br>
+                <span>og nå kan jeg føle</span>
+            </p>
+            <p begin="00:30:29.520" end="00:30:36.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå starter livet mitt</span>
+            </p>
+            <p begin="00:30:42.680" end="00:30:47.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg kan ikke tro at jeg gjorde det!</span>
+                <br></br>
+                <span>Jeg kan ikke tro at jeg gjorde det.</span>
+            </p>
+            <p begin="00:30:47.720" end="00:30:53.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg kan ikke tro at jeg gjorde det!</span>
+                <br></br>
+                <span>Mor hadde blitt rasende.</span>
+            </p>
+            <p begin="00:30:53.840" end="00:30:57.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hun har jo ikke</span>
+                <br></br>
+                <span>vondt av det hun ikke vet.</span>
+            </p>
+            <p begin="00:30:57.200" end="00:30:59.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun hadde blitt helt ødelagt.</span>
+            </p>
+            <p begin="00:30:59.920" end="00:31:03.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette er så moro!</span>
+            </p>
+            <p begin="00:31:03.280" end="00:31:06.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg er en grusom datter.</span>
+                <br></br>
+                <span>Jeg må dra tilbake.</span>
+            </p>
+            <p begin="00:31:06.440" end="00:31:10.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg drar aldri tilbake!</span>
+            </p>
+            <p begin="00:31:10.200" end="00:31:12.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er et motbydelig menneske.</span>
+            </p>
+            <p begin="00:31:15.000" end="00:31:18.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette er den beste dagen noensinne!</span>
+            </p>
+            <p begin="00:31:26.040" end="00:31:32.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg kan ikke unngå å legge merke til</span>
+                <br></br>
+                <span>at du blir dratt mellom to sider her.</span>
+            </p>
+            <p begin="00:31:32.400" end="00:31:35.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva?</span>
+                <br></br>
+                <span>―Jeg forstår bare litt her og der.</span>
+            </p>
+            <p begin="00:31:35.240" end="00:31:39.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Overbeskyttende mor, ulovlig</span>
+                <br></br>
+                <span>utflukt... Dette er alvorlig!</span>
+            </p>
+            <p begin="00:31:39.280" end="00:31:42.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette er en del av det å bli voksen.</span>
+            </p>
+            <p begin="00:31:42.480" end="00:31:47.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Å være litt rebelsk er bra!</span>
+                <br></br>
+                <span>Til og med sunt.</span>
+            </p>
+            <p begin="00:31:48.000" end="00:31:52.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Tror du det?</span>
+                <br></br>
+                <span>―Jeg vet det! Du overreagerer.</span>
+            </p>
+            <p begin="00:31:52.400" end="00:31:54.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Fortjener moren din dette? Nei.</span>
+            </p>
+            <p begin="00:31:54.600" end="00:32:00.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Blir hjertet hennes knust og sjelen</span>
+                <br></br>
+                <span>sønderknust? Ja! Men det må gjøres.</span>
+            </p>
+            <p begin="00:32:00.280" end="00:32:03.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Knuses hjertet hennes?</span>
+                <br></br>
+                <span>―I to.</span>
+            </p>
+            <p begin="00:32:03.160" end="00:32:06.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Blir hun sønderknust?</span>
+                <br></br>
+                <span>―Som en drue.</span>
+            </p>
+            <p begin="00:32:06.880" end="00:32:09.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hjertet hennes vil knuses.</span>
+                <br></br>
+                <span>Du har rett.</span>
+            </p>
+            <p begin="00:32:09.880" end="00:32:13.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har vel det, ja. Huff...</span>
+            </p>
+            <p begin="00:32:13.920" end="00:32:18.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg kan ikke tro det,</span>
+                <br></br>
+                <span>men avtalen gjelder ikke lenger.</span>
+            </p>
+            <p begin="00:32:18.400" end="00:32:21.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva?</span>
+                <br></br>
+                <span>―Det stemmer. Ikke takk meg.</span>
+            </p>
+            <p begin="00:32:21.520" end="00:32:24.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>La oss drar hjem.</span>
+                <br></br>
+                <span>Her, panne og frosk.</span>
+            </p>
+            <p begin="00:32:24.360" end="00:32:28.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg får vesken, du får tilbake</span>
+                <br></br>
+                <span>det gode mor―datter―forholdet.</span>
+            </p>
+            <p begin="00:32:28.680" end="00:32:31.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Voilá! Så går vi hver vår vei.</span>
+            </p>
+            <p begin="00:32:32.080" end="00:32:34.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei! Jeg har tenkt å se lyktene.</span>
+            </p>
+            <p begin="00:32:35.080" end="00:32:38.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hva må jeg gjøre for</span>
+                <br></br>
+                <span>å få vesken min tilbake?</span>
+            </p>
+            <p begin="00:32:38.680" end="00:32:41.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg bruker den gjerne igjen.</span>
+            </p>
+            <p begin="00:32:43.120" end="00:32:46.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Er det kjeltringer? Tyver?</span>
+                <br></br>
+                <span>Vil de ta meg?</span>
+            </p>
+            <p begin="00:32:50.000" end="00:32:54.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hold deg rolig.</span>
+                <br></br>
+                <span>Den kan sikkert lukte frykt.</span>
+            </p>
+            <p begin="00:32:54.400" end="00:32:59.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg beklager.</span>
+                <br></br>
+                <span>Jeg er bare litt lettskremt.</span>
+            </p>
+            <p begin="00:32:59.240" end="00:33:03.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er nok til det beste</span>
+                <br></br>
+                <span>om vi unngår kjeltringer og tyver.</span>
+            </p>
+            <p begin="00:33:03.680" end="00:33:06.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja, det er nok til det beste.</span>
+            </p>
+            <p begin="00:33:07.720" end="00:33:11.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Er du sulten?</span>
+                <br></br>
+                <span>Jeg vet hvor vi kan spise lunsj!</span>
+            </p>
+            <p begin="00:33:11.200" end="00:33:15.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvor da?</span>
+                <br></br>
+                <span>―Du vil kjenne stedet på lukten.</span>
+            </p>
+            <p begin="00:33:51.560" end="00:33:54.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>En hest fra palasset.</span>
+            </p>
+            <p begin="00:33:54.480" end="00:33:57.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvor er rytteren din? Rapunzel.</span>
+            </p>
+            <p begin="00:33:58.800" end="00:34:00.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel!</span>
+            </p>
+            <p begin="00:34:06.840" end="00:34:10.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel! Slipp ned håret ditt!</span>
+            </p>
+            <p begin="00:34:12.400" end="00:34:13.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel?</span>
+            </p>
+            <p begin="00:34:33.120" end="00:34:38.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel? Rapunzel!</span>
+            </p>
+            <p begin="00:35:21.200" end="00:35:24.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet at</span>
+                <br></br>
+                <span>det skal være her et sted...</span>
+            </p>
+            <p begin="00:35:25.080" end="00:35:28.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Der er det! Den kosete andungen.</span>
+            </p>
+            <p begin="00:35:28.520" end="00:35:31.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er et hyggelig sted.</span>
+                <br></br>
+                <span>Det er perfekt.</span>
+            </p>
+            <p begin="00:35:31.480" end="00:35:34.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vi vil jo ikke at</span>
+                <br></br>
+                <span>du skal bli skremt og gi opp.</span>
+            </p>
+            <p begin="00:35:34.680" end="00:35:37.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vel... Jeg liker andunger.</span>
+                <br></br>
+                <span>―Jippi!</span>
+            </p>
+            <p begin="00:35:39.480" end="00:35:42.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Deres beste bord, takk!</span>
+            </p>
+            <p begin="00:35:48.320" end="00:35:53.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kjenner du den lukten?</span>
+                <br></br>
+                <span>Pust gjennom nesen.</span>
+            </p>
+            <p begin="00:35:53.280" end="00:35:57.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det lukter stinkende mann</span>
+                <br></br>
+                <span>og svært stinkende mann.</span>
+            </p>
+            <p begin="00:35:57.680" end="00:36:00.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det lukter egentlig som fargen brun.</span>
+            </p>
+            <p begin="00:36:01.720" end="00:36:04.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Det er mye hår.</span>
+                <br></br>
+                <span>―Hun sparer.</span>
+            </p>
+            <p begin="00:36:05.120" end="00:36:08.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Har du blod i barten?</span>
+                <br></br>
+                <span>Se, gullhår. Se på blodet i barten!</span>
+            </p>
+            <p begin="00:36:09.120" end="00:36:12.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er svært mye blod, altså.</span>
+            </p>
+            <p begin="00:36:12.200" end="00:36:16.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du virker litt skremt, gullhår.</span>
+                <br></br>
+                <span>Skal vi kanskje dra hjem?</span>
+            </p>
+            <p begin="00:36:16.680" end="00:36:19.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dette er jo</span>
+                <br></br>
+                <span>en femstjerners restaurant.</span>
+            </p>
+            <p begin="00:36:19.560" end="00:36:23.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Tåler du ikke dette stedet,</span>
+                <br></br>
+                <span>bør du dra tilbake til tårnet ditt.</span>
+            </p>
+            <p begin="00:36:23.840" end="00:36:26.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Er dette deg?</span>
+            </p>
+            <p begin="00:36:28.160" end="00:36:30.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå er de bare slemme.</span>
+            </p>
+            <p begin="00:36:30.320" end="00:36:33.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ja, det er ham.</span>
+                <br></br>
+                <span>Hent et par vakter, Greno.</span>
+            </p>
+            <p begin="00:36:34.080" end="00:36:37.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg skal kjøpe meg</span>
+                <br></br>
+                <span>en ny krok for belønningen.</span>
+            </p>
+            <p begin="00:36:37.240" end="00:36:40.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg trenger pengene!</span>
+                <br></br>
+                <span>―Hva med meg, da? Jeg er blakk.</span>
+            </p>
+            <p begin="00:36:40.800" end="00:36:42.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Han er min!</span>
+                <br></br>
+                <span>―Slutt!</span>
+            </p>
+            <p begin="00:36:43.120" end="00:36:45.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vi kan komme til enighet.</span>
+                <br></br>
+                <span>―La ham være!</span>
+            </p>
+            <p begin="00:36:46.000" end="00:36:50.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vær så snill.</span>
+                <br></br>
+                <span>―Få tilbake guiden min!</span>
+            </p>
+            <p begin="00:36:58.440" end="00:37:00.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ikke nesen. Ikke nesen!</span>
+            </p>
+            <p begin="00:37:02.640" end="00:37:04.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Sett ham ned!</span>
+            </p>
+            <p begin="00:37:07.080" end="00:37:10.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet ikke hvor jeg er,</span>
+                <br></br>
+                <span>men han må føre meg til lyktene.</span>
+            </p>
+            <p begin="00:37:11.120" end="00:37:14.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har drømt om dem hele livet!</span>
+            </p>
+            <p begin="00:37:14.200" end="00:37:18.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vis lit medmenneskelighet.</span>
+                <br></br>
+                <span>Har dere aldri hatt en drøm?</span>
+            </p>
+            <p begin="00:37:30.160" end="00:37:33.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg hadde en drøm en gang.</span>
+            </p>
+            <p begin="00:37:41.200" end="00:37:45.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ond og fæl og skummel er jeg</span>
+                <br></br>
+                <span>og melken surner av meg</span>
+            </p>
+            <p begin="00:37:45.760" end="00:37:49.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hva vold angår</span>
+                <br></br>
+                <span>er saken nokså nitrist</span>
+            </p>
+            <p begin="00:37:49.200" end="00:37:53.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ser du bort fra alt det der</span>
+                <br></br>
+                <span>sinnet mitt og kroken her</span>
+            </p>
+            <p begin="00:37:53.880" end="00:37:57.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Har jeg alltid</span>
+                <br></br>
+                <span>villet bli en konsertpianist</span>
+            </p>
+            <p begin="00:37:57.200" end="00:38:00.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kan du se meg der på</span>
+                <br></br>
+                <span>scenen spille Mozart?</span>
+            </p>
+            <p begin="00:38:00.920" end="00:38:03.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hoppe mellom tangentenes søm</span>
+            </p>
+            <p begin="00:38:04.000" end="00:38:08.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vi gi et dødelig bitt</span>
+                <br></br>
+                <span>med pianospillet mitt</span>
+            </p>
+            <p begin="00:38:08.720" end="00:38:12.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Takk! For dypt inni</span>
+                <br></br>
+                <span>min sjel har jeg en drøm</span>
+            </p>
+            <p begin="00:38:12.360" end="00:38:15.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Han har en drøm</span>
+                <br></br>
+                <span>han har en drøm</span>
+            </p>
+            <p begin="00:38:15.640" end="00:38:19.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er ikke så ond, nei, ikke døm</span>
+            </p>
+            <p begin="00:38:19.160" end="00:38:23.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dog et beinbrudd er helt herlig</span>
+                <br></br>
+                <span>er det drømmen som er ærlig</span>
+            </p>
+            <p begin="00:38:23.160" end="00:38:25.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Som alle andre her har jeg en drøm</span>
+            </p>
+            <p begin="00:38:31.480" end="00:38:35.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har arr, kuler og merker</span>
+                <br></br>
+                <span>og noe her som verker</span>
+            </p>
+            <p begin="00:38:35.240" end="00:38:38.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hudfargen min</span>
+                <br></br>
+                <span>den er er blek og platt</span>
+            </p>
+            <p begin="00:38:38.240" end="00:38:41.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men til tross for ekstra tær</span>
+                <br></br>
+                <span>struma&#39;n min og nesen svær</span>
+            </p>
+            <p begin="00:38:42.040" end="00:38:45.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Er det kjærlighet</span>
+                <br></br>
+                <span>jeg skull&#39; ha hatt</span>
+            </p>
+            <p begin="00:38:45.240" end="00:38:48.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kan du se meg sitte</span>
+                <br></br>
+                <span>sammen med en jente</span>
+            </p>
+            <p begin="00:38:48.880" end="00:38:52.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>I en båt på elvens myke strøm</span>
+            </p>
+            <p begin="00:38:52.160" end="00:38:55.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ja, mitt fæle fjes til tross,</span>
+                <br></br>
+                <span>jeg vil elske, ikke slåss</span>
+            </p>
+            <p begin="00:38:55.920" end="00:38:58.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>For dypt inni min sjel</span>
+                <br></br>
+                <span>har jeg en drøm</span>
+            </p>
+            <p begin="00:38:58.840" end="00:39:02.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har en drøm</span>
+                <br></br>
+                <span>―Han har en drøm</span>
+            </p>
+            <p begin="00:39:02.480" end="00:39:05.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og jeg vet en dag</span>
+                <br></br>
+                <span>at kjærlighet gjør øm</span>
+            </p>
+            <p begin="00:39:05.800" end="00:39:09.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Folk ser fjeset mitt og rømmer,</span>
+                <br></br>
+                <span>men barnet bak det drømmer</span>
+            </p>
+            <p begin="00:39:09.760" end="00:39:12.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Som alle andre her</span>
+                <br></br>
+                <span>har jeg en drøm</span>
+            </p>
+            <p begin="00:39:12.680" end="00:39:16.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Tor vil bytte jobb</span>
+                <br></br>
+                <span>og binde blomster</span>
+            </p>
+            <p begin="00:39:16.600" end="00:39:19.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gunther vil designe huset ditt</span>
+            </p>
+            <p begin="00:39:19.760" end="00:39:23.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ulf han mimer flott</span>
+                <br></br>
+                <span>Attillas cupcakes smaker godt</span>
+            </p>
+            <p begin="00:39:23.160" end="00:39:26.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Bruisers strikk, Killers nål</span>
+                <br></br>
+                <span>Fang er dukkespesifikk</span>
+            </p>
+            <p begin="00:39:26.680" end="00:39:33.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Og Vladimirs enhjørninger av keramikk</span>
+            </p>
+            <p begin="00:39:33.320" end="00:39:37.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva med deg?</span>
+                <br></br>
+                <span>―Hva er drømmen din?</span>
+            </p>
+            <p begin="00:39:37.560" end="00:39:40.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg beklager, gutter.</span>
+                <br></br>
+                <span>Jeg synger ikke.</span>
+            </p>
+            <p begin="00:39:40.880" end="00:39:44.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mine drømmer kan drasjeres</span>
+                <br></br>
+                <span>men neppe slik som deres</span>
+            </p>
+            <p begin="00:39:44.480" end="00:39:47.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det skjer der solen</span>
+                <br></br>
+                <span>tåken gjennomtrenger</span>
+            </p>
+            <p begin="00:39:48.040" end="00:39:51.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>På min egen lille øy</span>
+                <br></br>
+                <span>solbrun i en hengekøy</span>
+            </p>
+            <p begin="00:39:52.080" end="00:39:54.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Omringet av et fjell av masse penger</span>
+            </p>
+            <p begin="00:39:55.000" end="00:39:58.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har en drøm</span>
+                <br></br>
+                <span>―Hun har en drøm</span>
+            </p>
+            <p begin="00:39:58.640" end="00:40:01.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vil bare se</span>
+                <br></br>
+                <span>en lykt i vindens strøm</span>
+            </p>
+            <p begin="00:40:02.120" end="00:40:05.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og for hver hensvunnen time</span>
+                <br></br>
+                <span>begynner friheten å rime</span>
+            </p>
+            <p begin="00:40:06.120" end="00:40:08.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Som alle dere her</span>
+                <br></br>
+                <span>har jeg en drøm</span>
+            </p>
+            <p begin="00:40:08.880" end="00:40:12.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Nå drømmer hun</span>
+                <br></br>
+                <span>―Nå drømmer de</span>
+            </p>
+            <p begin="00:40:12.840" end="00:40:15.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så vi er ikke så ulike, er vi?</span>
+            </p>
+            <p begin="00:40:15.600" end="00:40:20.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vi stemmer i</span>
+            </p>
+            <p begin="00:40:20.240" end="00:40:23.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er grusomt og sadistisk,</span>
+                <br></br>
+                <span>men hjelp, så optimistisk</span>
+            </p>
+            <p begin="00:40:23.880" end="00:40:26.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dypt inni vår sjel</span>
+                <br></br>
+                <span>har vi en drøm</span>
+            </p>
+            <p begin="00:40:26.200" end="00:40:31.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har en drøm</span>
+                <br></br>
+                <span>―Jeg har en drøm</span>
+            </p>
+            <p begin="00:40:32.040" end="00:40:34.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja, dypt inni min sjel</span>
+            </p>
+            <p begin="00:40:34.640" end="00:40:41.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Har jeg en drøm</span>
+            </p>
+            <p begin="00:40:41.720" end="00:40:44.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja!</span>
+            </p>
+            <p begin="00:40:46.000" end="00:40:48.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har funnet vaktene?</span>
+            </p>
+            <p begin="00:40:49.080" end="00:40:51.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvor er Rider?</span>
+            </p>
+            <p begin="00:40:51.480" end="00:40:56.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet at han er her et sted. Snu</span>
+                <br></br>
+                <span>hele stedet på hodet om dere må.</span>
+            </p>
+            <p begin="00:41:11.480" end="00:41:14.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gå. Lev ut drømmen din.</span>
+            </p>
+            <p begin="00:41:14.600" end="00:41:18.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Det skal jeg.</span>
+                <br></br>
+                <span>―Drømmen din suger. Jeg mente henne.</span>
+            </p>
+            <p begin="00:41:20.160" end="00:41:22.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Takk for alt.</span>
+            </p>
+            <p begin="00:41:24.920" end="00:41:27.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er nok denne mannen</span>
+                <br></br>
+                <span>dere leter etter.</span>
+            </p>
+            <p begin="00:41:27.880" end="00:41:30.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå har dere tatt meg!</span>
+            </p>
+            <p begin="00:41:30.360" end="00:41:32.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rider er ikke her.</span>
+            </p>
+            <p begin="00:41:35.880" end="00:41:38.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Maximus!</span>
+            </p>
+            <p begin="00:41:44.840" end="00:41:46.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva er det han gjør?</span>
+            </p>
+            <p begin="00:41:55.160" end="00:41:58.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>En tunnel! Kom igjen, karer.</span>
+            </p>
+            <p begin="00:41:58.480" end="00:42:02.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Sørg for at de to ikke rømmer.</span>
+            </p>
+            <p begin="00:42:05.360" end="00:42:10.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Skal vi ta det rolig</span>
+                <br></br>
+                <span>eller dra av sted og finne kronen?</span>
+            </p>
+            <p begin="00:42:17.720" end="00:42:22.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har en drøm,</span>
+                <br></br>
+                <span>jeg har noen drømmer</span>
+            </p>
+            <p begin="00:42:22.560" end="00:42:25.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, nå må noen skaffe meg et glass.</span>
+            </p>
+            <p begin="00:42:25.920" end="00:42:30.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Denne berta her skal</span>
+                <br></br>
+                <span>helles oppi og drikkes.</span>
+            </p>
+            <p begin="00:42:30.320" end="00:42:33.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hold opp, din store koseklump.</span>
+            </p>
+            <p begin="00:42:34.160" end="00:42:37.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvor ender den tunnelen?</span>
+                <br></br>
+                <span>―Kniv.</span>
+            </p>
+            <p begin="00:42:39.720" end="00:42:44.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg visste ikke at du hadde såpass</span>
+                <br></br>
+                <span>med tæl. Det var imponerende.</span>
+            </p>
+            <p begin="00:42:44.480" end="00:42:48.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg vet det! Jeg vet det.</span>
+            </p>
+            <p begin="00:42:51.640" end="00:42:54.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så... Flynn...</span>
+            </p>
+            <p begin="00:42:54.240" end="00:42:57.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvor kommer du fra?</span>
+                <br></br>
+                <span>―Jeg deler ikke slikt.</span>
+            </p>
+            <p begin="00:42:57.280" end="00:42:59.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg er svært interessert</span>
+                <br></br>
+                <span>i din historie.</span>
+            </p>
+            <p begin="00:43:00.040" end="00:43:04.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men jeg skal visst ikke nevne</span>
+                <br></br>
+                <span>håret ditt eller moren din.</span>
+            </p>
+            <p begin="00:43:04.720" end="00:43:08.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg tør ikke spørre om frosken.</span>
+                <br></br>
+                <span>―Kameleonen.</span>
+            </p>
+            <p begin="00:43:08.360" end="00:43:14.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men hvis du ville se lyktene så mye,</span>
+                <br></br>
+                <span>hvorfor har du ikke dratt før?</span>
+            </p>
+            <p begin="00:43:17.200" end="00:43:18.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vel...</span>
+            </p>
+            <p begin="00:43:22.240" end="00:43:24.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Flynn?</span>
+            </p>
+            <p begin="00:43:24.840" end="00:43:27.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Flynn!</span>
+                <br></br>
+                <span>―Rider!</span>
+            </p>
+            <p begin="00:43:28.000" end="00:43:30.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Løp!</span>
+            </p>
+            <p begin="00:43:47.480" end="00:43:49.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvem er det?</span>
+                <br></br>
+                <span>―De liker meg ikke.</span>
+            </p>
+            <p begin="00:43:50.040" end="00:43:52.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Og hvem er det?</span>
+                <br></br>
+                <span>―De liker meg heller ikke.</span>
+            </p>
+            <p begin="00:43:53.000" end="00:43:56.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvem er det?</span>
+                <br></br>
+                <span>―La oss bare si at ingen liker meg!</span>
+            </p>
+            <p begin="00:43:56.760" end="00:43:58.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hold denne.</span>
+            </p>
+            <p begin="00:44:06.560" end="00:44:08.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette har jeg ventet lenge på.</span>
+            </p>
+            <p begin="00:44:17.800" end="00:44:22.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jøss. Jeg må få meg en slik en!</span>
+            </p>
+            <p begin="00:44:29.320" end="00:44:35.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du skal vite at dette er det</span>
+                <br></br>
+                <span>rareste jeg noen gang har gjort.</span>
+            </p>
+            <p begin="00:44:38.640" end="00:44:40.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva med to av tre?</span>
+            </p>
+            <p begin="00:44:40.400" end="00:44:42.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Flynn!</span>
+            </p>
+            <p begin="00:44:46.720" end="00:44:49.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Pass opp, Flynn!</span>
+            </p>
+            <p begin="00:44:52.760" end="00:44:57.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dere skulle ha sett ansiktsuttrykkene</span>
+                <br></br>
+                <span>deres. Dere ser...tåpelige ut.</span>
+            </p>
+            <p begin="00:45:04.480" end="00:45:06.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kom igjen, gullhår! Hopp!</span>
+            </p>
+            <p begin="00:46:32.560" end="00:46:36.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det går ikke.</span>
+                <br></br>
+                <span>Jeg kan ikke se noe.</span>
+            </p>
+            <p begin="00:46:40.520" end="00:46:44.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er ingen vits.</span>
+                <br></br>
+                <span>Det er bekmørkt der nede.</span>
+            </p>
+            <p begin="00:46:51.320" end="00:46:53.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dette er bare min feil.</span>
+            </p>
+            <p begin="00:46:54.640" end="00:46:57.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun hadde rett. Dette var en tabbe.</span>
+            </p>
+            <p begin="00:47:01.360" end="00:47:06.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er så lei for deg, Flynn.</span>
+            </p>
+            <p begin="00:47:13.120" end="00:47:15.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eugene.</span>
+            </p>
+            <p begin="00:47:15.640" end="00:47:20.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva?</span>
+                <br></br>
+                <span>―Jeg heter Eugene Fitzherbert.</span>
+            </p>
+            <p begin="00:47:21.680" end="00:47:23.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Noen bør vel vite det...</span>
+            </p>
+            <p begin="00:47:26.320" end="00:47:31.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har magisk hår som</span>
+                <br></br>
+                <span>gløder når jeg synger.</span>
+            </p>
+            <p begin="00:47:32.520" end="00:47:37.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har magisk hår som</span>
+                <br></br>
+                <span>gløder når jeg synger!</span>
+            </p>
+            <p begin="00:47:37.760" end="00:47:41.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Blomst med solens kraft</span>
+                <br></br>
+                <span>del nå lyset ditt</span>
+            </p>
+            <p begin="00:48:29.160" end="00:48:31.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vi klarte det.</span>
+                <br></br>
+                <span>―Håret hennes gløder!</span>
+            </p>
+            <p begin="00:48:31.800" end="00:48:37.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vi lever!</span>
+                <br></br>
+                <span>―Jeg fikk nesten sjokk. Det gløder!</span>
+            </p>
+            <p begin="00:48:37.200" end="00:48:40.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Eugene!</span>
+                <br></br>
+                <span>―Hvorfor gløder det?</span>
+            </p>
+            <p begin="00:48:41.840" end="00:48:44.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det gjør mer enn bare å gløde.</span>
+            </p>
+            <p begin="00:48:46.280" end="00:48:48.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvorfor smiler han til meg?</span>
+            </p>
+            <p begin="00:49:11.600" end="00:49:14.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg skal drepe Rider!</span>
+            </p>
+            <p begin="00:49:15.680" end="00:49:20.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vi avskjærer ham ved grensen</span>
+                <br></br>
+                <span>og tar tilbake kronen. Kom igjen!</span>
+            </p>
+            <p begin="00:49:20.640" end="00:49:22.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eller...</span>
+            </p>
+            <p begin="00:49:23.840" end="00:49:29.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dere er som hunder som løper etter</span>
+                <br></br>
+                <span>sine egne haler. Tenk dere om nå.</span>
+            </p>
+            <p begin="00:49:32.120" end="00:49:34.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det blir ikke nødvendig.</span>
+            </p>
+            <p begin="00:49:39.680" end="00:49:43.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvis det er alt dere vil ha,</span>
+                <br></br>
+                <span>så er det bare å dra.</span>
+            </p>
+            <p begin="00:49:43.200" end="00:49:46.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg ville tilby dere</span>
+                <br></br>
+                <span>noe verdt 1000 kroner.</span>
+            </p>
+            <p begin="00:49:46.200" end="00:49:49.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dere ville ha blitt styrtrike.</span>
+                <br></br>
+                <span>Og det var ikke alt!</span>
+            </p>
+            <p begin="00:49:49.680" end="00:49:53.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vel, vel. Slik er livet.</span>
+                <br></br>
+                <span>Nyt kronen deres.</span>
+            </p>
+            <p begin="00:49:55.120" end="00:50:01.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Var det ikke alt, sa du?</span>
+                <br></br>
+                <span>―Dere kan hevne dere på Flynn Rider.</span>
+            </p>
+            <p begin="00:50:08.480" end="00:50:13.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du opptrer nokså kryptisk nå som du</span>
+                <br></br>
+                <span>pakker hånden min inn i håret ditt.</span>
+            </p>
+            <p begin="00:50:13.800" end="00:50:16.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Unnskyld.</span>
+            </p>
+            <p begin="00:50:16.400" end="00:50:20.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ikke mist fatningen.</span>
+            </p>
+            <p begin="00:50:25.520" end="00:50:29.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Blomst med solens kraft</span>
+            </p>
+            <p begin="00:50:29.720" end="00:50:33.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Del nå lyset ditt</span>
+            </p>
+            <p begin="00:50:34.040" end="00:50:37.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gjem bort tidens tann</span>
+            </p>
+            <p begin="00:50:37.360" end="00:50:42.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="00:50:42.320" end="00:50:46.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Leg det som er skadd</span>
+            </p>
+            <p begin="00:50:46.240" end="00:50:50.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endre skjebnens ritt</span>
+            </p>
+            <p begin="00:50:50.200" end="00:50:53.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Redd det som er tapt</span>
+            </p>
+            <p begin="00:50:53.560" end="00:50:57.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="00:50:57.160" end="00:51:02.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Som før var mitt</span>
+            </p>
+            <p begin="00:51:15.480" end="00:51:17.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ikke mist fatningen!</span>
+            </p>
+            <p begin="00:51:20.400" end="00:51:25.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg er bare interessert i håret ditt</span>
+                <br></br>
+                <span>og dets magiske evner.</span>
+            </p>
+            <p begin="00:51:25.680" end="00:51:28.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvor lenge har dette foregått?</span>
+            </p>
+            <p begin="00:51:29.480" end="00:51:32.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hele livet mitt, tror jeg.</span>
+            </p>
+            <p begin="00:51:32.520" end="00:51:38.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mor sa at folk prøvde</span>
+                <br></br>
+                <span>å klippe det da jeg var baby.</span>
+            </p>
+            <p begin="00:51:38.280" end="00:51:43.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Når det blir klippet,</span>
+                <br></br>
+                <span>blir det brunt og mister kraften.</span>
+            </p>
+            <p begin="00:51:43.760" end="00:51:47.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>En slik gave må beskyttes.</span>
+            </p>
+            <p begin="00:51:47.880" end="00:51:50.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er derfor mor aldri lot meg...</span>
+            </p>
+            <p begin="00:51:53.400" end="00:51:57.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er derfor jeg aldri dro, og...</span>
+            </p>
+            <p begin="00:51:59.400" end="00:52:02.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du ble værende i tårnet.</span>
+            </p>
+            <p begin="00:52:05.160" end="00:52:08.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Har du tenkt å dra tilbake?</span>
+                <br></br>
+                <span>―Nei!</span>
+            </p>
+            <p begin="00:52:08.840" end="00:52:13.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja? Det er komplisert.</span>
+            </p>
+            <p begin="00:52:23.440" end="00:52:26.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så... Eugene Fitzherbert.</span>
+            </p>
+            <p begin="00:52:26.520" end="00:52:31.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du skal få slippe å høre fortellingen</span>
+                <br></br>
+                <span>om foreldreløse Eugene Fitzherbert.</span>
+            </p>
+            <p begin="00:52:31.760" end="00:52:35.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Den er litt... Den er litt trist.</span>
+            </p>
+            <p begin="00:52:40.920" end="00:52:46.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg leste en bok til småbarna hver</span>
+                <br></br>
+                <span>kveld. &#34;Flynnigan Riders Eventyr&#34;.</span>
+            </p>
+            <p begin="00:52:46.400" end="00:52:51.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Han var en styrtrik og eventyrlysten</span>
+                <br></br>
+                <span>røver, med godt dametekke.</span>
+            </p>
+            <p begin="00:52:51.240" end="00:52:53.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Men han skrøt aldri av det.</span>
+            </p>
+            <p begin="00:52:54.080" end="00:52:59.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Var han også en tyv?</span>
+                <br></br>
+                <span>―Nei...</span>
+            </p>
+            <p begin="00:52:59.480" end="00:53:04.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Han hadde nok penger til å gjøre alt</span>
+                <br></br>
+                <span>han ville og dra rundt hele jorden.</span>
+            </p>
+            <p begin="00:53:04.560" end="00:53:08.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>For en unge som ikke hadde noe...</span>
+            </p>
+            <p begin="00:53:10.000" end="00:53:12.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det virket som</span>
+                <br></br>
+                <span>det beste alternativet.</span>
+            </p>
+            <p begin="00:53:12.800" end="00:53:15.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du kan ikke fortelle noen om dette.</span>
+            </p>
+            <p begin="00:53:15.680" end="00:53:18.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det kan sverte ryktet mitt.</span>
+            </p>
+            <p begin="00:53:18.680" end="00:53:23.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Det vil vi ikke ha noe av!</span>
+                <br></br>
+                <span>―Et falskt rykte er alt en mann har.</span>
+            </p>
+            <p begin="00:53:30.280" end="00:53:35.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg bør gå og finne litt mer ved.</span>
+            </p>
+            <p begin="00:53:36.440" end="00:53:39.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Bare sånn at du vet det...</span>
+            </p>
+            <p begin="00:53:39.880" end="00:53:43.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg liker Eugene Fitzherbert</span>
+                <br></br>
+                <span>mye mer enn Flynn Rider.</span>
+            </p>
+            <p begin="00:53:45.280" end="00:53:50.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Da er du den første som</span>
+                <br></br>
+                <span>gjør det... Men takk.</span>
+            </p>
+            <p begin="00:53:59.080" end="00:54:02.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg trodde han aldri skulle dra!</span>
+            </p>
+            <p begin="00:54:02.200" end="00:54:05.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Mor?</span>
+                <br></br>
+                <span>―Hallo, kjære.</span>
+            </p>
+            <p begin="00:54:05.160" end="00:54:09.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Men jeg... Hvordan fant du meg?</span>
+            </p>
+            <p begin="00:54:09.480" end="00:54:15.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det var lett. Jeg lyttet etter lyden</span>
+                <br></br>
+                <span>av total svik og fulgte etter den.</span>
+            </p>
+            <p begin="00:54:17.640" end="00:54:21.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Mor...</span>
+                <br></br>
+                <span>―Vi drar hjem, Rapunzel. Nå!</span>
+            </p>
+            <p begin="00:54:22.080" end="00:54:26.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har vært på en utrolig reise</span>
+                <br></br>
+                <span>og har sett og lært så mye.</span>
+            </p>
+            <p begin="00:54:26.480" end="00:54:31.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg har møtt noen.</span>
+                <br></br>
+                <span>―En etterlyst tyv. Jeg er så stolt.</span>
+            </p>
+            <p begin="00:54:31.480" end="00:54:34.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vent, mor. Jeg tror...</span>
+            </p>
+            <p begin="00:54:35.880" end="00:54:40.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg tror han liker meg.</span>
+                <br></br>
+                <span>―Liker deg? Slutt, for et sløvsinn!</span>
+            </p>
+            <p begin="00:54:40.280" end="00:54:44.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Men jeg...</span>
+                <br></br>
+                <span>―Derfor skulle du aldri ha dratt</span>
+            </p>
+            <p begin="00:54:44.200" end="00:54:47.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Romansedrømmen din</span>
+                <br></br>
+                <span>er bare oppspinn</span>
+            </p>
+            <p begin="00:54:47.160" end="00:54:51.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du er altfor naiv til dette</span>
+            </p>
+            <p begin="00:54:52.040" end="00:54:55.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvorfor skulle han like deg?</span>
+                <br></br>
+                <span>Kom igjen, nå!</span>
+            </p>
+            <p begin="00:54:55.360" end="00:54:58.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se på deg!</span>
+                <br></br>
+                <span>Er han ditt hjertes gjest?</span>
+            </p>
+            <p begin="00:54:59.000" end="00:55:02.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du er lamma,</span>
+                <br></br>
+                <span>bli med mamma</span>
+            </p>
+            <p begin="00:55:03.120" end="00:55:06.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Mamma...</span>
+                <br></br>
+                <span>―Nei!</span>
+            </p>
+            <p begin="00:55:06.520" end="00:55:08.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei?</span>
+            </p>
+            <p begin="00:55:08.840" end="00:55:12.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jaha... Jeg forstår.</span>
+            </p>
+            <p begin="00:55:14.480" end="00:55:18.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Rapunzel vet best</span>
+                <br></br>
+                <span>Rapunzel er så sikker</span>
+            </p>
+            <p begin="00:55:18.440" end="00:55:21.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun har vokst seg ganske svær</span>
+            </p>
+            <p begin="00:55:21.640" end="00:55:25.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Rapunzel vet best</span>
+                <br></br>
+                <span>immun mot mors kritikker</span>
+            </p>
+            <p begin="00:55:25.400" end="00:55:28.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Da kan du gi ham den her</span>
+                <br></br>
+                <span>―Hvordan fant...</span>
+            </p>
+            <p begin="00:55:28.560" end="00:55:31.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Her er grunnen hans</span>
+                <br></br>
+                <span>han er en bedrager</span>
+            </p>
+            <p begin="00:55:32.120" end="00:55:35.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Gi den til ham, du får se</span>
+                <br></br>
+                <span>―Det skal jeg!</span>
+            </p>
+            <p begin="00:55:35.280" end="00:55:38.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hør nå på meg,</span>
+                <br></br>
+                <span>snart han vinden jager</span>
+            </p>
+            <p begin="00:55:38.440" end="00:55:42.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg skal ikke gni det inn</span>
+            </p>
+            <p begin="00:55:42.160" end="00:55:46.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Nei, Rapunzel vet best,</span>
+                <br></br>
+                <span>så hvis han er den rette</span>
+            </p>
+            <p begin="00:55:46.320" end="00:55:49.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gi ham så en siste test</span>
+            </p>
+            <p begin="00:55:49.800" end="00:55:55.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vil han stikke,</span>
+                <br></br>
+                <span>klag så ikke</span>
+            </p>
+            <p begin="00:55:55.920" end="00:56:01.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Mamma vet best</span>
+            </p>
+            <p begin="00:56:06.040" end="00:56:09.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Kan jeg spørre deg om noe?</span>
+            </p>
+            <p begin="00:56:10.480" end="00:56:15.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kommer jeg til å få</span>
+                <br></br>
+                <span>superstyrke i hånden min?</span>
+            </p>
+            <p begin="00:56:15.400" end="00:56:18.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det hadde vært fantastisk.</span>
+            </p>
+            <p begin="00:56:18.200" end="00:56:22.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Er alt i orden?</span>
+                <br></br>
+                <span>―Ja... Beklager.</span>
+            </p>
+            <p begin="00:56:22.360" end="00:56:26.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg sto bare og tenkte litt.</span>
+            </p>
+            <p begin="00:56:28.120" end="00:56:32.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har alltid vært unaturlig</span>
+                <br></br>
+                <span>kjekk. Jeg ble født slik.</span>
+            </p>
+            <p begin="00:56:32.480" end="00:56:37.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men superstyrke?</span>
+                <br></br>
+                <span>Tenk deg mulighetene!</span>
+            </p>
+            <p begin="00:56:40.720" end="00:56:43.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vær tålmodige gutter.</span>
+            </p>
+            <p begin="00:56:43.200" end="00:56:48.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>De som venter på noe godt...</span>
+            </p>
+            <p begin="00:57:05.720" end="00:57:08.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg håper du har en unnskyldning.</span>
+            </p>
+            <p begin="00:57:11.080" end="00:57:16.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei! Slipp meg!</span>
+            </p>
+            <p begin="00:57:16.280" end="00:57:19.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Slipp ham!</span>
+                <br></br>
+                <span>―Slutt!</span>
+            </p>
+            <p begin="00:57:29.480" end="00:57:32.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så så, gutt. Ro deg ned.</span>
+            </p>
+            <p begin="00:57:32.720" end="00:57:36.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rolig nå.</span>
+            </p>
+            <p begin="00:57:38.600" end="00:57:40.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Der ja!</span>
+            </p>
+            <p begin="00:57:43.680" end="00:57:47.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Sitt. Sitt...</span>
+            </p>
+            <p begin="00:57:47.600" end="00:57:51.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva!</span>
+                <br></br>
+                <span>―Slipp støvelen! Slipp den!</span>
+            </p>
+            <p begin="00:57:53.840" end="00:57:59.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>For en flink gutt du er!</span>
+            </p>
+            <p begin="00:57:59.360" end="00:58:03.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Er du sliten etter å ha jaget</span>
+                <br></br>
+                <span>etter den slemme mannen?</span>
+            </p>
+            <p begin="00:58:04.120" end="00:58:07.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ingen setter pris på deg,</span>
+                <br></br>
+                <span>gjør de vel?</span>
+            </p>
+            <p begin="00:58:08.080" end="00:58:13.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Han er en slem hest!</span>
+                <br></br>
+                <span>―Han er en koseklump!</span>
+            </p>
+            <p begin="00:58:13.760" end="00:58:17.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Stemmer ikke det...Maximus?</span>
+            </p>
+            <p begin="00:58:17.720" end="00:58:20.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå tuller du med meg.</span>
+            </p>
+            <p begin="00:58:20.160" end="00:58:25.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er den største</span>
+                <br></br>
+                <span>dagen i livet mitt.</span>
+            </p>
+            <p begin="00:58:25.280" end="00:58:29.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Så han må ikke bli arrestert.</span>
+            </p>
+            <p begin="00:58:29.640" end="00:58:35.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Bare i ett døgn til. Etter det kan</span>
+                <br></br>
+                <span>dere jage etter hverandre dagen lang.</span>
+            </p>
+            <p begin="00:58:39.200" end="00:58:43.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er fødselsdagen min også.</span>
+                <br></br>
+                <span>Bare slik at du vet det.</span>
+            </p>
+            <p begin="00:59:32.560" end="00:59:34.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg beklager.</span>
+            </p>
+            <p begin="00:59:55.080" end="00:59:57.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Tusen takk!</span>
+            </p>
+            <p begin="01:00:12.560" end="01:00:15.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er til den forsvunne prinsessen.</span>
+            </p>
+            <p begin="01:01:29.840" end="01:01:32.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Til båtene!</span>
+            </p>
+            <p begin="01:01:42.120" end="01:01:44.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du, Max!</span>
+            </p>
+            <p begin="01:01:46.360" end="01:01:48.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva er det? Jeg kjøpte dem!</span>
+            </p>
+            <p begin="01:01:51.680" end="01:01:54.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Mesteparten i hvert fall.</span>
+            </p>
+            <p begin="01:01:54.720" end="01:02:00.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvor skal vi?</span>
+                <br></br>
+                <span>―Du fortjener god utsikt i dag.</span>
+            </p>
+            <p begin="01:02:18.000" end="01:02:22.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Er alt i orden?</span>
+                <br></br>
+                <span>―Jeg er livredd.</span>
+            </p>
+            <p begin="01:02:22.480" end="01:02:24.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvorfor det?</span>
+            </p>
+            <p begin="01:02:24.480" end="01:02:28.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har sett ut gjennom</span>
+                <br></br>
+                <span>et vindu i 18 år.</span>
+            </p>
+            <p begin="01:02:28.600" end="01:02:34.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg har drømt om hvordan det ville</span>
+                <br></br>
+                <span>føles å se lyktene stige oppover.</span>
+            </p>
+            <p begin="01:02:34.160" end="01:02:38.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hva gjør jeg hvis det ikke er som</span>
+                <br></br>
+                <span>i drømmene mine?</span>
+            </p>
+            <p begin="01:02:40.480" end="01:02:43.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det vil det være.</span>
+            </p>
+            <p begin="01:02:43.280" end="01:02:48.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og hva om det er det?</span>
+                <br></br>
+                <span>Hva gjør jeg da?</span>
+            </p>
+            <p begin="01:02:48.160" end="01:02:52.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Det er vel det beste.</span>
+                <br></br>
+                <span>Da kan du finne deg en ny drøm.</span>
+            </p>
+            <p begin="01:04:22.680" end="01:04:27.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dagene jeg satt bak et vindu</span>
+            </p>
+            <p begin="01:04:27.640" end="01:04:31.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Årene fløy forbi så fort</span>
+            </p>
+            <p begin="01:04:32.040" end="01:04:36.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Tiden gikk, og jeg visste aldri</span>
+            </p>
+            <p begin="01:04:36.640" end="01:04:41.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva jeg skulle gjort</span>
+            </p>
+            <p begin="01:04:41.600" end="01:04:46.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er her under stjernehimmel</span>
+            </p>
+            <p begin="01:04:46.560" end="01:04:50.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er her, og nå kan jeg si</span>
+            </p>
+            <p begin="01:04:50.440" end="01:04:55.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Her jeg står, jeg nå forstår</span>
+            </p>
+            <p begin="01:04:55.280" end="01:04:59.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg er der jeg vil bli</span>
+            </p>
+            <p begin="01:04:59.600" end="01:05:04.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endelig er lyset her</span>
+            </p>
+            <p begin="01:05:04.200" end="01:05:08.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Og tåken tung har lettet</span>
+            </p>
+            <p begin="01:05:08.600" end="01:05:12.880" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endelig er lyset her</span>
+            </p>
+            <p begin="01:05:13.080" end="01:05:17.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg ser nå en helt ny vei</span>
+            </p>
+            <p begin="01:05:17.600" end="01:05:22.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Den er strak og bred og nær</span>
+            </p>
+            <p begin="01:05:22.560" end="01:05:27.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Livets kvaler er utslettet</span>
+            </p>
+            <p begin="01:05:30.080" end="01:05:34.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Verden er plutselig en annen</span>
+            </p>
+            <p begin="01:05:35.040" end="01:05:40.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå som jeg ser deg</span>
+            </p>
+            <p begin="01:05:45.440" end="01:05:47.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg har noe til deg også.</span>
+            </p>
+            <p begin="01:05:48.000" end="01:05:51.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg burde ha gitt den til deg</span>
+                <br></br>
+                <span>tidligere, men jeg var redd.</span>
+            </p>
+            <p begin="01:05:51.920" end="01:05:55.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Men jeg er ikke redd lenger.</span>
+            </p>
+            <p begin="01:05:55.280" end="01:05:59.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Forstår du?</span>
+                <br></br>
+                <span>―Jeg begynner å forstå.</span>
+            </p>
+            <p begin="01:06:03.800" end="01:06:08.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Dagene, jakten på en dagdrøm</span>
+            </p>
+            <p begin="01:06:08.640" end="01:06:12.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Årene i en tåke tett</span>
+            </p>
+            <p begin="01:06:12.880" end="01:06:17.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Tiden gikk uten at jeg fattet</span>
+            </p>
+            <p begin="01:06:17.200" end="01:06:20.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Alt det jeg fikk sett</span>
+            </p>
+            <p begin="01:06:21.880" end="01:06:26.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun er her under stjernehimmel</span>
+            </p>
+            <p begin="01:06:26.560" end="01:06:30.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hun er her, og nå kan jeg si</span>
+            </p>
+            <p begin="01:06:30.920" end="01:06:35.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Er hun nær, så er jeg der</span>
+            </p>
+            <p begin="01:06:35.440" end="01:06:39.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er her jeg må bli</span>
+            </p>
+            <p begin="01:06:39.440" end="01:06:43.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endelig er lyset her</span>
+            </p>
+            <p begin="01:06:43.760" end="01:06:47.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Og tåken tung har lettet</span>
+            </p>
+            <p begin="01:06:47.840" end="01:06:52.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endelig er lyset her</span>
+            </p>
+            <p begin="01:06:52.160" end="01:06:56.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg ser nå en helt ny vei</span>
+            </p>
+            <p begin="01:06:56.400" end="01:07:00.640" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Den er strak og bred og nær</span>
+            </p>
+            <p begin="01:07:00.800" end="01:07:07.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Livets kvaler er utslettet</span>
+            </p>
+            <p begin="01:07:08.680" end="01:07:13.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Verden er plutselig en annen</span>
+            </p>
+            <p begin="01:07:13.880" end="01:07:19.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå som jeg ser deg</span>
+            </p>
+            <p begin="01:07:22.240" end="01:07:25.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nå som jeg</span>
+            </p>
+            <p begin="01:07:25.600" end="01:07:31.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ser deg</span>
+            </p>
+            <p begin="01:07:47.560" end="01:07:51.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Er alt i orden?</span>
+            </p>
+            <p begin="01:07:52.160" end="01:07:56.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ja, så klart.</span>
+            </p>
+            <p begin="01:08:02.320" end="01:08:07.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Alt er i orden.</span>
+                <br></br>
+                <span>Jeg må bare gjøre noe først.</span>
+            </p>
+            <p begin="01:08:10.040" end="01:08:14.400" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Greit.</span>
+                <br></br>
+                <span>―Jeg er straks tilbake.</span>
+            </p>
+            <p begin="01:08:20.320" end="01:08:22.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ikke tenk på det, Pascal.</span>
+            </p>
+            <p begin="01:08:29.160" end="01:08:33.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Der er dere. Jeg har lett</span>
+                <br></br>
+                <span>etter dere helt siden dere forsvant.</span>
+            </p>
+            <p begin="01:08:33.640" end="01:08:38.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Kinnskjegget gror fint, ser jeg.</span>
+                <br></br>
+                <span>Det gleder deg nok.</span>
+            </p>
+            <p begin="01:08:41.240" end="01:08:45.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg ville bare beklage for at jeg</span>
+                <br></br>
+                <span>stakk av. Kronen er deres.</span>
+            </p>
+            <p begin="01:08:45.320" end="01:08:49.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vil savne dere,</span>
+                <br></br>
+                <span>men det er nok til alles...beste.</span>
+            </p>
+            <p begin="01:08:50.840" end="01:08:54.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Skjuler du noe for oss, Rider?</span>
+            </p>
+            <p begin="01:08:54.160" end="01:08:57.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva sa du?</span>
+                <br></br>
+                <span>―Vi har hørt at du har funnet noe.</span>
+            </p>
+            <p begin="01:08:57.360" end="01:09:01.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Noe som er langt mer</span>
+                <br></br>
+                <span>verdifullt enn en krone.</span>
+            </p>
+            <p begin="01:09:01.160" end="01:09:03.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vi vil ha henne i stedet.</span>
+            </p>
+            <p begin="01:09:13.640" end="01:09:16.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg trodde neste at</span>
+                <br></br>
+                <span>du hadde stakk med kronen.</span>
+            </p>
+            <p begin="01:09:23.520" end="01:09:25.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det gjorde han.</span>
+            </p>
+            <p begin="01:09:25.280" end="01:09:29.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hva? Nei.</span>
+                <br></br>
+                <span>Det ville han ikke ha gjort.</span>
+            </p>
+            <p begin="01:09:29.320" end="01:09:32.080" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Bare se selv.</span>
+            </p>
+            <p begin="01:09:35.600" end="01:09:40.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eugene? Eugene!</span>
+            </p>
+            <p begin="01:09:43.200" end="01:09:47.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>En rettferdig byttehandel. En</span>
+                <br></br>
+                <span>krone for jenta med magisk hår?</span>
+            </p>
+            <p begin="01:09:48.120" end="01:09:52.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvor mye tror du folk betaler for</span>
+                <br></br>
+                <span>å forbli unge og friske hele livet?</span>
+            </p>
+            <p begin="01:09:52.760" end="01:09:56.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei... Vær så snill!</span>
+            </p>
+            <p begin="01:09:56.400" end="01:09:58.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei!</span>
+            </p>
+            <p begin="01:10:05.000" end="01:10:09.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Rapunzel!</span>
+                <br></br>
+                <span>―Mor?</span>
+            </p>
+            <p begin="01:10:13.720" end="01:10:18.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Min søte lille jente.</span>
+                <br></br>
+                <span>―Mor...</span>
+            </p>
+            <p begin="01:10:18.560" end="01:10:20.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Er alt i orden? Er du skadet?</span>
+            </p>
+            <p begin="01:10:21.120" end="01:10:25.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvordan visste du...?</span>
+                <br></br>
+                <span>―Jeg fulgte etter deg.</span>
+            </p>
+            <p begin="01:10:25.920" end="01:10:31.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg så dem angripe deg og...</span>
+                <br></br>
+                <span>La oss dra før de våkner!</span>
+            </p>
+            <p begin="01:10:59.480" end="01:11:04.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du hadde rett, mor.</span>
+                <br></br>
+                <span>Du hadde rett angående alt.</span>
+            </p>
+            <p begin="01:11:04.480" end="01:11:08.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg vet det, kjære. Jeg vet det.</span>
+            </p>
+            <p begin="01:11:20.880" end="01:11:24.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Se! Kronen!</span>
+            </p>
+            <p begin="01:11:24.400" end="01:11:27.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel... Rapunzel!</span>
+            </p>
+            <p begin="01:11:29.760" end="01:11:32.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, vent!</span>
+            </p>
+            <p begin="01:11:35.320" end="01:11:37.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel!</span>
+            </p>
+            <p begin="01:11:55.440" end="01:12:00.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―La oss få det unnagjort, Rider.</span>
+                <br></br>
+                <span>―Hvor skal vi?</span>
+            </p>
+            <p begin="01:12:08.240" end="01:12:11.560" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Sånn. Nå er det ute av verden.</span>
+            </p>
+            <p begin="01:12:13.120" end="01:12:19.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gjør deg klar til middag.</span>
+                <br></br>
+                <span>Jeg skal lage hasselnøttsuppe.</span>
+            </p>
+            <p begin="01:12:22.360" end="01:12:27.720" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg prøvde virkelig å advare deg</span>
+                <br></br>
+                <span>om alt som var der ute.</span>
+            </p>
+            <p begin="01:12:27.880" end="01:12:32.000" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Verden er mørk, egoistisk og ond.</span>
+            </p>
+            <p begin="01:12:32.160" end="01:12:38.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Finner den den minste solstråle,</span>
+                <br></br>
+                <span>så ødelegger den den.</span>
+            </p>
+            <p begin="01:14:16.080" end="01:14:20.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hvordan visste dere om henne?</span>
+                <br></br>
+                <span>―Det var den gamle damen!</span>
+            </p>
+            <p begin="01:14:21.120" end="01:14:23.800" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Gamle damen?</span>
+            </p>
+            <p begin="01:14:24.000" end="01:14:28.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Dere forstår ikke!</span>
+                <br></br>
+                <span>Hun er i knipe!</span>
+            </p>
+            <p begin="01:14:28.680" end="01:14:33.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Rapunzel?</span>
+                <br></br>
+                <span>Hva er det du gjør der oppe?</span>
+            </p>
+            <p begin="01:14:37.480" end="01:14:41.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Er alt i orden?</span>
+                <br></br>
+                <span>―Jeg er den forsvunne prinsessen.</span>
+            </p>
+            <p begin="01:14:41.840" end="01:14:45.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Snakk tydeligere, Rapunzel.</span>
+                <br></br>
+                <span>Jeg hater mumlingen din!</span>
+            </p>
+            <p begin="01:14:45.600" end="01:14:49.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg er den forsvunne</span>
+                <br></br>
+                <span>prinsessen, er jeg ikke?</span>
+            </p>
+            <p begin="01:14:52.120" end="01:14:57.640" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Mumlet jeg, mor?</span>
+                <br></br>
+                <span>Bør jeg overhodet kalle deg det?</span>
+            </p>
+            <p begin="01:14:59.120" end="01:15:04.320" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hør på hva du sier, da!</span>
+                <br></br>
+                <span>Tenk å stille et så dumt spørsmål.</span>
+            </p>
+            <p begin="01:15:04.480" end="01:15:07.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det var deg! Det var bare deg.</span>
+            </p>
+            <p begin="01:15:09.800" end="01:15:13.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Alt jeg gjorde var</span>
+                <br></br>
+                <span>for å beskytte deg.</span>
+            </p>
+            <p begin="01:15:14.440" end="01:15:19.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hele livet mitt har jeg gjemt meg</span>
+                <br></br>
+                <span>fra folk som ville bruke kraften min.</span>
+            </p>
+            <p begin="01:15:20.080" end="01:15:23.760" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Rapunzel!</span>
+                <br></br>
+                <span>―Jeg burde ha gjemt meg fra deg!</span>
+            </p>
+            <p begin="01:15:23.920" end="01:15:27.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvor vil du dra?</span>
+                <br></br>
+                <span>Han vil ikke være der lenger.</span>
+            </p>
+            <p begin="01:15:27.280" end="01:15:32.440" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva har du gjort med ham?</span>
+                <br></br>
+                <span>―Den forbryteren vil bli hengt.</span>
+            </p>
+            <p begin="01:15:33.640" end="01:15:37.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Slapp av... Bare hør på meg.</span>
+            </p>
+            <p begin="01:15:37.400" end="01:15:40.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det er slik ting bør være.</span>
+            </p>
+            <p begin="01:15:40.480" end="01:15:44.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei! Du tok feil angående verden.</span>
+            </p>
+            <p begin="01:15:44.600" end="01:15:51.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og du tok feil angående meg.</span>
+                <br></br>
+                <span>Du får aldri bruke håret mitt igjen!</span>
+            </p>
+            <p begin="01:15:59.760" end="01:16:06.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vil du at jeg skal være skurken?</span>
+                <br></br>
+                <span>Greit. Jeg kan være skurken.</span>
+            </p>
+            <p begin="01:16:19.520" end="01:16:22.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva er dette? Åpne døren!</span>
+            </p>
+            <p begin="01:16:23.880" end="01:16:26.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Hva er passordet?</span>
+                <br></br>
+                <span>―Hva?</span>
+            </p>
+            <p begin="01:16:27.080" end="01:16:29.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Åpne døren!</span>
+                <br></br>
+                <span>―Du er ikke i nærheten engang.</span>
+            </p>
+            <p begin="01:16:30.080" end="01:16:33.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du har tre sekunder på deg. Én!</span>
+            </p>
+            <p begin="01:16:34.520" end="01:16:37.600" tts:extent="91% 10%" tts:textAlign="left">
+                <span>To, tre...</span>
+            </p>
+            <p begin="01:16:43.160" end="01:16:46.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Stekepanner.</span>
+                <br></br>
+                <span>Hvem kunne ha gjettet det?</span>
+            </p>
+            <p begin="01:17:13.640" end="01:17:15.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hodet ned. Armene inn.</span>
+            </p>
+            <p begin="01:17:15.920" end="01:17:18.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Knærne spredd.</span>
+                <br></br>
+                <span>―Knærne spredd?</span>
+            </p>
+            <p begin="01:17:18.720" end="01:17:21.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvorfor må jeg spre knærne?</span>
+            </p>
+            <p begin="01:17:27.920" end="01:17:31.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Max... Du hentet dem.</span>
+            </p>
+            <p begin="01:17:33.600" end="01:17:35.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Takk.</span>
+            </p>
+            <p begin="01:17:35.880" end="01:17:40.160" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, virkelig. Takk.</span>
+            </p>
+            <p begin="01:17:40.320" end="01:17:43.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Vi har bare misforstått hverandre,―</span>
+            </p>
+            <p begin="01:17:43.520" end="01:17:46.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―men vi er egentlig...</span>
+                <br></br>
+                <span>Ja, vi bør dra.</span>
+            </p>
+            <p begin="01:17:54.400" end="01:17:57.480" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Max? Max!</span>
+            </p>
+            <p begin="01:17:57.640" end="01:17:59.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Max!</span>
+            </p>
+            <p begin="01:18:08.240" end="01:18:12.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hvor fort kan du løpe, Max?</span>
+            </p>
+            <p begin="01:18:29.880" end="01:18:34.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel? Slipp ned håret ditt!</span>
+            </p>
+            <p begin="01:18:49.560" end="01:18:52.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg trodde at aldri</span>
+                <br></br>
+                <span>jeg skulle få se deg igjen.</span>
+            </p>
+            <p begin="01:19:00.240" end="01:19:03.040" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se nå hva du har</span>
+                <br></br>
+                <span>stelt i stand, Rapunzel.</span>
+            </p>
+            <p begin="01:19:03.200" end="01:19:07.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Ikke tenk på det, kjære.</span>
+                <br></br>
+                <span>Hemmeligheten vår dør med ham.</span>
+            </p>
+            <p begin="01:19:08.880" end="01:19:11.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva oss angår...</span>
+            </p>
+            <p begin="01:19:11.680" end="01:19:16.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Vi drar til et sted hvor ingen</span>
+                <br></br>
+                <span>noensinne vil finne deg.</span>
+            </p>
+            <p begin="01:19:21.920" end="01:19:25.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hold opp, Rapunzel!</span>
+            </p>
+            <p begin="01:19:25.560" end="01:19:28.240" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Slutt å gjøre motstand!</span>
+            </p>
+            <p begin="01:19:28.400" end="01:19:33.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg slutter aldri. Jeg kommer til</span>
+                <br></br>
+                <span>å kjempe tilbake hele mitt liv.</span>
+            </p>
+            <p begin="01:19:33.640" end="01:19:38.280" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vil alltid prøve</span>
+                <br></br>
+                <span>å komme meg unna deg.</span>
+            </p>
+            <p begin="01:19:39.680" end="01:19:44.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men hvis du lar meg redde ham,</span>
+                <br></br>
+                <span>så blir jeg med deg.</span>
+            </p>
+            <p begin="01:19:44.760" end="01:19:48.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Ikke gjør det, Rapunzel.</span>
+            </p>
+            <p begin="01:19:48.440" end="01:19:51.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg skal aldri prøve å rømme.</span>
+            </p>
+            <p begin="01:19:51.560" end="01:19:55.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Bare la meg helbrede ham.</span>
+                <br></br>
+                <span>Da er det bare vi to igjen.</span>
+            </p>
+            <p begin="01:19:55.280" end="01:20:00.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>For alltid. Akkurat som du vil</span>
+                <br></br>
+                <span>ha det. Alt vil bli som før.</span>
+            </p>
+            <p begin="01:20:00.480" end="01:20:04.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Jeg lover. Akkurat som du vil ha det.</span>
+            </p>
+            <p begin="01:20:06.880" end="01:20:10.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Bare la meg helbrede ham.</span>
+            </p>
+            <p begin="01:20:15.440" end="01:20:19.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hvis du skulle få for deg</span>
+                <br></br>
+                <span>at du vil følge etter oss...</span>
+            </p>
+            <p begin="01:20:20.040" end="01:20:22.400" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eugene!</span>
+            </p>
+            <p begin="01:20:28.520" end="01:20:31.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg beklager. Alt vil gå bra.</span>
+                <br></br>
+                <span>―Nei, Rapunzel.</span>
+            </p>
+            <p begin="01:20:31.840" end="01:20:35.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg lover. Du må stole på meg.</span>
+                <br></br>
+                <span>―Kom igjen, nå.</span>
+            </p>
+            <p begin="01:20:35.280" end="01:20:39.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Jeg kan ikke la deg gjøre dette.</span>
+                <br></br>
+                <span>―Jeg kan ikke la deg dø.</span>
+            </p>
+            <p begin="01:20:40.120" end="01:20:43.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Men hvis du gjør dette,</span>
+                <br></br>
+                <span>så kommer du til å dø.</span>
+            </p>
+            <p begin="01:20:43.680" end="01:20:47.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Alt vil ordne seg.</span>
+            </p>
+            <p begin="01:20:52.040" end="01:20:55.720" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Rapunzel... Vent...</span>
+            </p>
+            <p begin="01:21:03.880" end="01:21:07.000" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Eugene.</span>
+                <br></br>
+                <span>―Nei!</span>
+            </p>
+            <p begin="01:21:11.800" end="01:21:16.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, nei! Hva har du gjort?</span>
+            </p>
+            <p begin="01:21:16.920" end="01:21:19.280" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva har du gjort?!</span>
+            </p>
+            <p begin="01:21:19.440" end="01:21:20.920" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei!</span>
+            </p>
+            <p begin="01:21:24.120" end="01:21:27.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Nei, nei, nei...</span>
+            </p>
+            <p begin="01:21:56.200" end="01:21:58.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eugene!</span>
+            </p>
+            <p begin="01:22:00.120" end="01:22:04.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Se på meg! Jeg er her.</span>
+                <br></br>
+                <span>Bli her hos meg, Eugene.</span>
+            </p>
+            <p begin="01:22:04.480" end="01:22:07.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Blomst med solens kraft</span>
+                <br></br>
+                <span>Gi meg lyset ditt</span>
+            </p>
+            <p begin="01:22:07.720" end="01:22:11.480" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Gjem bort tidens tann</span>
+                <br></br>
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="01:22:11.600" end="01:22:14.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hva er det?</span>
+            </p>
+            <p begin="01:22:16.920" end="01:22:19.120" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Du er min nye drøm.</span>
+            </p>
+            <p begin="01:22:22.080" end="01:22:24.520" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Og du er min.</span>
+            </p>
+            <p begin="01:22:48.600" end="01:22:53.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Leg det som er skadd</span>
+            </p>
+            <p begin="01:22:53.480" end="01:22:57.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Endre skjebnens ritt</span>
+            </p>
+            <p begin="01:22:58.040" end="01:23:01.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Redd det som er tapt</span>
+            </p>
+            <p begin="01:23:03.480" end="01:23:07.040" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Hent frem det som var mitt</span>
+            </p>
+            <p begin="01:23:09.600" end="01:23:12.200" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Som før var mitt</span>
+            </p>
+            <p begin="01:24:06.440" end="01:24:10.080" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Rapunzel?</span>
+                <br></br>
+                <span>―Eugene?</span>
+            </p>
+            <p begin="01:24:12.320" end="01:24:14.840" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Glemte jeg å si at</span>
+                <br></br>
+                <span>jeg liker brunetter?</span>
+            </p>
+            <p begin="01:24:16.840" end="01:24:18.840" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Eugene!</span>
+            </p>
+            <p begin="01:25:53.520" end="01:25:57.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Du kan jo forestille deg</span>
+                <br></br>
+                <span>hva som nå skjedde.</span>
+            </p>
+            <p begin="01:25:59.240" end="01:26:02.680" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Hele kongeriket feiret.</span>
+                <br></br>
+                <span>Prinsessen deres var tilbake.</span>
+            </p>
+            <p begin="01:26:02.840" end="01:26:07.800" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Feiringen varte i en hel uke,</span>
+                <br></br>
+                <span>og jeg husker svært lite av den.</span>
+            </p>
+            <p begin="01:26:08.000" end="01:26:09.760" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Flere drømmer ble oppfylt.</span>
+            </p>
+            <p begin="01:26:09.920" end="01:26:14.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Denne karen ble verdens mest</span>
+                <br></br>
+                <span>kjente pianist. Kan du tro det?</span>
+            </p>
+            <p begin="01:26:16.400" end="01:26:19.360" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og denne karen</span>
+                <br></br>
+                <span>fant til slutt kjærligheten.</span>
+            </p>
+            <p begin="01:26:20.520" end="01:26:25.240" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Og denne karen...er nok lykkelig.</span>
+                <br></br>
+                <span>Han har ikke sagt noe annet.</span>
+            </p>
+            <p begin="01:26:26.600" end="01:26:32.120" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Takket være Maximus forsvant</span>
+                <br></br>
+                <span>all kriminalitet nesten over natten.</span>
+            </p>
+            <p begin="01:26:32.280" end="01:26:35.320" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det samme gjelder eplene.</span>
+            </p>
+            <p begin="01:26:35.480" end="01:26:39.440" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Pascal forandret seg aldri.</span>
+            </p>
+            <p begin="01:26:42.560" end="01:26:47.880" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Rapunzel var endelig hjemme,</span>
+                <br></br>
+                <span>og hun hadde nå en ekte familie.</span>
+            </p>
+            <p begin="01:26:48.080" end="01:26:50.360" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Det var verdt all ventingen.</span>
+            </p>
+            <p begin="01:26:50.480" end="01:26:55.160" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Alle elsket henne, og hun styrte</span>
+                <br></br>
+                <span>kongeriket akkurat som foreldrene.</span>
+            </p>
+            <p begin="01:26:56.480" end="01:27:01.600" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Når det gjelder meg, byttet jeg navn</span>
+                <br></br>
+                <span>til Eugene, jeg og sluttet å stjele.</span>
+            </p>
+            <p begin="01:27:01.760" end="01:27:06.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jeg vet hva dere lurer på.</span>
+                <br></br>
+                <span>Ble Rapunzel og jeg gift?</span>
+            </p>
+            <p begin="01:27:06.360" end="01:27:12.560" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Jo, etter å ha blitt fridd til</span>
+                <br></br>
+                <span>utallige ganger over flere år...</span>
+            </p>
+            <p begin="01:27:13.920" end="01:27:17.200" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―...så sa jeg endelig ja.</span>
+                <br></br>
+                <span>―Eugene...</span>
+            </p>
+            <p begin="01:27:17.360" end="01:27:19.680" tts:extent="91% 10%" tts:textAlign="left">
+                <span>Greit. Jeg fridde til henne.</span>
+            </p>
+            <p begin="01:27:19.840" end="01:27:24.920" tts:extent="82% 10%" tts:textAlign="left">
+                <span>―Vi lever lykkelig i alle våre dager.</span>
+                <br></br>
+                <span>―Det er sant, det.</span>
+            </p>
+            <p begin="01:27:58.520" end="01:28:02.520" tts:extent="82% 10%" tts:textAlign="left">
+                <span>Tekst: Joakim Brekke</span>
+                <br></br>
+                <span>www.sdimedia.com</span>
+            </p>
+        </div>
+    </body>
+</tt>

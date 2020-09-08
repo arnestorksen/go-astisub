@@ -189,6 +189,8 @@ type StyleAttributes struct {
 	STLBoxing            *bool
 	STLItalics           *bool
 	STLUnderline         *bool
+	STLJustification     *Justification
+	STLVerticalPosition  *VerticalPosition
 	TeletextColor        *Color
 	TeletextDoubleHeight *bool
 	TeletextDoubleSize   *bool
@@ -234,7 +236,21 @@ type StyleAttributes struct {
 
 func (sa *StyleAttributes) propagateSSAAttributes() {}
 
-func (sa *StyleAttributes) propagateSTLAttributes() {}
+func (sa *StyleAttributes) propagateSTLAttributes() {
+	if sa.STLJustification != nil {
+		switch *sa.STLJustification {
+		case JustificationLeft:
+			sa.TTMLTextAlign = "left"
+		case JustificationCentered:
+			sa.TTMLTextAlign = "center"
+		case JustificationRight:
+			sa.TTMLTextAlign = "right"
+		}
+	}
+	if sa.STLVerticalPosition != nil {
+		sa.TTMLExtent = fmt.Sprintf("%d%% 10%%", sa.STLVerticalPosition.asPercent())
+	}
+}
 
 func (sa *StyleAttributes) propagateTeletextAttributes() {
 	if sa.TeletextColor != nil {
