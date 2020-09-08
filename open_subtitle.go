@@ -32,7 +32,7 @@ func parseOpenSubtitleRow(i *Item, d decoder, fs func() styler, row []byte) {
 			// Style has changed
 			if s.hasChanged(li.InlineStyle) {
 				if len(li.Text) > 0 {
-				//	// Append line item
+					// Append line item
 					appendOpenLineItem(&l, li, s)
 
 					// Create new line item
@@ -57,6 +57,7 @@ func parseOpenSubtitleRow(i *Item, d decoder, fs func() styler, row []byte) {
 }
 
 func appendOpenLineItem(l *Line, li LineItem, s styler) {
+
 	// There's some text
 	if len(strings.TrimSpace(li.Text)) > 0 {
 		// Make sure inline style exists

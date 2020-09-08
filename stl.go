@@ -108,6 +108,7 @@ const (
 // STL country codes
 const (
 	stlCountryCodeFrance = "FRA"
+	stlCountryCodeNorway = "NOR"
 )
 
 // STL cumulative status
@@ -140,14 +141,16 @@ const (
 
 // STL language codes
 const (
-	stlLanguageCodeEnglish = "09"
-	stlLanguageCodeFrench  = "0F"
+	stlLanguageCodeEnglish   = "09"
+	stlLanguageCodeFrench    = "0F"
+	stlLanguageCodeNorwegian = "1E"
 )
 
 // STL language mapping
 var stlLanguageMapping = astikit.NewBiMap().
 	Set(stlLanguageCodeEnglish, LanguageEnglish).
-	Set(stlLanguageCodeFrench, LanguageFrench)
+	Set(stlLanguageCodeFrench, LanguageFrench).
+	Set(stlLanguageCodeNorwegian, LanguageNorwegian)
 
 // STL timecode status
 const (
@@ -160,15 +163,14 @@ const extensionBlockNumberReservedUserData = 0xfe
 
 const stlLineSeparator = 0x8a
 
-
 // ReadFromSTL parses an .stl content
-func ReadFromSTL(i io.Reader) (o *Subtitles, err error) {
+func ReadFromSTL(reader io.Reader) (o *Subtitles, err error) {
 	// Init
 	o = NewSubtitles()
 
 	// Read GSI block
 	var b []byte
-	if b, err = readNBytes(i, stlBlockSizeGSI); err != nil {
+	if b, err = readNBytes(reader, stlBlockSizeGSI); err != nil {
 		return
 	}
 
@@ -202,7 +204,7 @@ func ReadFromSTL(i io.Reader) (o *Subtitles, err error) {
 	// Parse Text and Timing Information (TTI) blocks.
 	for {
 		// Read TTI block
-		if b, err = readNBytes(i, stlBlockSizeTTI); err != nil {
+		if b, err = readNBytes(reader, stlBlockSizeTTI); err != nil {
 			if err == io.EOF {
 				err = nil
 				break
@@ -298,7 +300,7 @@ func newGSIBlock(s Subtitles) (g *gsiBlock) {
 	g = &gsiBlock{
 		characterCodeTableNumber: stlCharacterCodeTableNumberLatin,
 		codePageNumber:           stlCodePageNumberMultilingual,
-		countryOfOrigin:          stlCountryCodeFrance,
+		countryOfOrigin:          stlCountryCodeNorway,
 		creationDate:             Now(),
 		diskSequenceNumber:       1,
 		displayStandardCode:      stlDisplayStandardCodeLevel1Teletext,
@@ -621,7 +623,7 @@ func newTTIBlock(i *Item, idx int) (t *ttiBlock) {
 		}
 		lines = append(lines, strings.Join(lineItems, " "))
 	}
-	t.text = []byte(strings.Join(lines, string(stlLineSeparator)))
+	t.text = []byte(strings.Join(lines, fmt.Sprint(stlLineSeparator)))
 	return
 }
 
@@ -752,20 +754,20 @@ func (s *stlStyler) parseSpacingAttribute(i byte) {
 		s.boxing = astikit.BoolPtr(false)
 	}
 }
+
 func (s *stlStyler) asStyledLineItemString(i string) string {
 	rs := i
 	if *s.italics {
-		rs = string(0x80) + rs + string(0x81)
+		rs = fmt.Sprint(0x80) + rs + fmt.Sprint(0x81)
 	}
 	if *s.underline {
-		rs = string(0x82) + rs + string(0x83)
+		rs = fmt.Sprint(0x82) + rs + fmt.Sprint(0x83)
 	}
 	if *s.boxing {
-		rs = string(0x84) + i + string(0x85)
+		rs = fmt.Sprint(0x84) + rs + fmt.Sprint(0x85)
 	}
 	return rs
 }
-
 
 func (s *stlStyler) hasBeenSet() bool {
 	return s.italics != nil || s.boxing != nil || s.underline != nil
