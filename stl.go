@@ -220,10 +220,20 @@ func ReadFromSTL(reader io.Reader) (o *Subtitles, err error) {
 			continue
 		}
 
+		justification := parseJustificationAttribute(t.justificationCode)
+		verticalPosition := parseVerticalPositionAttribute(t.verticalPosition, g.maximumNumberOfDisplayableRows)
+
+		styleAttributes := StyleAttributes{
+			STLJustification:    &justification,
+			STLVerticalPosition: &verticalPosition,
+		}
+		styleAttributes.propagateSTLAttributes()
+
 		// Create item
 		var i = &Item{
-			EndAt:   t.timecodeOut - g.timecodeStartOfProgramme,
-			StartAt: t.timecodeIn - g.timecodeStartOfProgramme,
+			EndAt:       t.timecodeOut - g.timecodeStartOfProgramme,
+			StartAt:     t.timecodeIn - g.timecodeStartOfProgramme,
+			InlineStyle: &styleAttributes,
 		}
 
 		// Loop through rows
@@ -913,4 +923,25 @@ func encodeTextSTL(i string) (o []byte) {
 		}
 	}
 	return
+}
+
+func parseJustificationAttribute(i byte) Justification {
+	switch i {
+	case 0x00:
+		return JustificationUnchanged
+	case 0x01:
+		return JustificationLeft
+	case 0x02:
+		return JustificationCentered
+	case 0x03:
+		return JustificationRight
+	default:
+		return JustificationUnchanged
+	}
+
+}
+
+func parseVerticalPositionAttribute(rowNumber int, maxRows int) VerticalPosition {
+
+	return newVerticalPositionFromRows(uint8(rowNumber), uint8(maxRows))
 }
