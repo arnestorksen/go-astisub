@@ -67,5 +67,11 @@ func TestSTLTV2(t *testing.T) {
 	//	err = s.WriteToSTL(w)
 	//	assert.NoError(t, err)
 	//	assert.Equal(t, string(c), w.String())
+	w = &bytes.Buffer{}
+	err = s.WriteToWebVTT(w)
+	//assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
+
+	// Write
+	err = ioutil.WriteFile("./testdata/PG00305851-opn.vtt", w.Bytes(), os.ModePerm)
 
 }
