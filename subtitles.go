@@ -248,7 +248,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 		}
 	}
 	if sa.STLVerticalPosition != nil {
-		sa.TTMLExtent = fmt.Sprintf("%d%% 10%%", sa.STLVerticalPosition.asPercent())
+		p := sa.STLVerticalPosition.asPercent()
+		sa.TTMLOrigin = fmt.Sprintf("10%% %d%%", p)
+		sa.TTMLExtent = fmt.Sprintf("80%% %d%%", 100-p)
 	}
 }
 
