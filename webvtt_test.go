@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/asticode/go-astisub"
+	"github.com/arnestorksen/go-astisub"
 	"github.com/stretchr/testify/assert"
 )
 
