@@ -47,14 +47,14 @@ func TestSTLTV2(t *testing.T) {
 	}
 
 	// Open
-	s, err := astisub.OpenFile("./testdata/PG00305851-opn.stl")
+	s, err := astisub.OpenFile("./testdata/H0044591_opn.stl")
 	assert.NoError(t, err)
 
 	// Metadata
 	assert.Equal(t, 25, s.Metadata.Framerate)
-	assert.Equal(t, astikit.IntPtr(50), s.Metadata.STLMaximumNumberOfDisplayableCharactersInAnyTextRow)
+	assert.Equal(t, astikit.IntPtr(37), s.Metadata.STLMaximumNumberOfDisplayableCharactersInAnyTextRow)
 	assert.Equal(t, astikit.IntPtr(11), s.Metadata.STLMaximumNumberOfDisplayableRows)
-	assert.Equal(t, astisub.LanguageNorwegian, s.Metadata.Language)
+	assert.Equal(t, astisub.LanguageEnglish, s.Metadata.Language)
 
 	// No subtitles to write
 	w := &bytes.Buffer{}
@@ -62,7 +62,7 @@ func TestSTLTV2(t *testing.T) {
 	//assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
 
 	// Write
-	err = ioutil.WriteFile("./testdata/PG00305851-opn.ttml", w.Bytes(), os.ModePerm)
+	err = ioutil.WriteFile("./testdata/H0044591_opn.ttml", w.Bytes(), os.ModePerm)
 	//assert.NoError(t, err)
 	//	err = s.WriteToSTL(w)
 	//	assert.NoError(t, err)
@@ -72,6 +72,6 @@ func TestSTLTV2(t *testing.T) {
 	//assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
 
 	// Write
-	err = ioutil.WriteFile("./testdata/PG00305851-opn.vtt", w.Bytes(), os.ModePerm)
+	err = ioutil.WriteFile("./testdata/H0044591_opn.vtt", w.Bytes(), os.ModePerm)
 
 }
