@@ -252,6 +252,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 		sa.TTMLOrigin = fmt.Sprintf("10%% %d%%", p)
 		sa.TTMLExtent = fmt.Sprintf("80%% %d%%", 100-p)
 	}
+	if sa.STLItalics != nil {
+		sa.TTMLFontStyle = "italic"
+	}
 }
 
 func (sa *StyleAttributes) propagateTeletextAttributes() {
