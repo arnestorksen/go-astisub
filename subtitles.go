@@ -255,6 +255,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 	if sa.STLItalics != nil {
 		sa.TTMLFontStyle = "italic"
 	}
+	if sa.STLUnderline != nil {
+		sa.TTMLTextDecoration = "underline"
+	}
 }
 
 func (sa *StyleAttributes) propagateTeletextAttributes() {
