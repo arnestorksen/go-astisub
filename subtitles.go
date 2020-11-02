@@ -232,6 +232,7 @@ type StyleAttributes struct {
 	WebVTTVertical       string
 	WebVTTViewportAnchor string
 	WebVTTWidth          string
+	WebVTTItalics		 bool
 }
 
 func (sa *StyleAttributes) propagateSSAAttributes() {}
@@ -241,10 +242,13 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 		switch *sa.STLJustification {
 		case JustificationLeft:
 			sa.TTMLTextAlign = "left"
+			sa.WebVTTAlign = "left"
 		case JustificationCentered:
 			sa.TTMLTextAlign = "center"
+			sa.WebVTTAlign = "center"
 		case JustificationRight:
 			sa.TTMLTextAlign = "right"
+			sa.WebVTTAlign = "right"
 		}
 	}
 	if sa.STLVerticalPosition != nil {
@@ -254,6 +258,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 	}
 	if sa.STLItalics != nil {
 		sa.TTMLFontStyle = "italic"
+		sa.WebVTTItalics = true
+	} else {
+		sa.WebVTTItalics = false
 	}
 	if sa.STLUnderline != nil {
 		sa.TTMLTextDecoration = "underline"
