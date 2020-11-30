@@ -241,9 +241,8 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 	if sa.STLJustification != nil {
 		switch *sa.STLJustification {
 		case JustificationLeft:
-			//default should be center
-			sa.TTMLTextAlign = "center"
-			sa.WebVTTAlign = "center"
+			sa.TTMLTextAlign = "left"
+			sa.WebVTTAlign = "left"
 		case JustificationCentered:
 			sa.TTMLTextAlign = "center"
 			sa.WebVTTAlign = "center"
