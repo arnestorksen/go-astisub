@@ -28,36 +28,19 @@ var (
 	}
 )
 
-type VerticalPosition struct {
-	position float64
+type Origin struct {
+	x float64
+	y float64
+}
+type Extent struct {
+	height float64
+	width  float64
+}
+type Position struct {
+	origin Origin
+	extent Extent
 }
 
-func newVerticalPositionFromRows(row uint8, totalRows uint8) VerticalPosition {
-	return VerticalPosition{
-		position: float64(row-1) / float64(totalRows),
-	}
-}
-
-func newVerticalPositionFromPercentage(percent uint8) VerticalPosition {
-	return VerticalPosition{
-		position: float64(percent) / 100,
-	}
-}
-
-func newVerticalPosition(position float64) VerticalPosition {
-	return VerticalPosition{
-		position: position,
-	}
-}
-
-func (i VerticalPosition) asRow(totalRows uint8) uint8 {
-	return uint8(math.RoundToEven(i.position * float64(totalRows)))
-}
-
-func (i VerticalPosition) asPercent() uint8 {
-	return uint8(math.RoundToEven(i.position * 100))
-}
-
-func (i VerticalPosition) asAbsolute() float64 {
-	return i.position
+func asPercent(i float64) uint8 {
+	return uint8(math.RoundToEven(i * 100))
 }

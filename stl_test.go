@@ -47,7 +47,7 @@ func TestSTLTV2(t *testing.T) {
 	}
 
 	// Open
-	s, err := astisub.OpenFile("./testdata/H0044591_opn.stl")
+	s, err := astisub.OpenFile("./testdata/D0459622-opn.stl")
 	assert.NoError(t, err)
 
 	// Metadata
@@ -62,7 +62,7 @@ func TestSTLTV2(t *testing.T) {
 	//assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
 
 	// Write
-	err = ioutil.WriteFile("./testdata/H0044591_opn.ttml", w.Bytes(), os.ModePerm)
+	err = ioutil.WriteFile("./testdata/D0459622-opn.ttml", w.Bytes(), os.ModePerm)
 	//assert.NoError(t, err)
 	//	err = s.WriteToSTL(w)
 	//	assert.NoError(t, err)
@@ -72,6 +72,6 @@ func TestSTLTV2(t *testing.T) {
 	//assert.EqualError(t, err, astisub.ErrNoSubtitlesToWrite.Error())
 
 	// Write
-	err = ioutil.WriteFile("./testdata/H0044591_opn.vtt", w.Bytes(), os.ModePerm)
+	err = ioutil.WriteFile("./testdata/D0459622-opn.vtt", w.Bytes(), os.ModePerm)
 
 }

@@ -221,11 +221,22 @@ func ReadFromSTL(reader io.Reader) (o *Subtitles, err error) {
 		}
 
 		justification := parseJustificationAttribute(t.justificationCode)
-		verticalPosition := parseVerticalPositionAttribute(t.verticalPosition, g.maximumNumberOfDisplayableRows)
+		rows := len(bytes.Split(t.text, []byte{stlLineSeparator}))
+
+		position := Position{
+			origin: Origin{
+				x: 0,
+				y: float64(t.verticalPosition-1) / float64(g.maximumNumberOfDisplayableRows),
+			},
+			extent: Extent{
+				height: float64(rows) / float64(g.maximumNumberOfDisplayableRows),
+				width:  1,
+			},
+		}
 
 		styleAttributes := StyleAttributes{
-			STLJustification:    &justification,
-			STLVerticalPosition: &verticalPosition,
+			STLJustification: &justification,
+			STLPosition:      &position,
 		}
 		styleAttributes.propagateSTLAttributes()
 
@@ -939,9 +950,4 @@ func parseJustificationAttribute(i byte) Justification {
 		return JustificationUnchanged
 	}
 
-}
-
-func parseVerticalPositionAttribute(rowNumber int, maxRows int) VerticalPosition {
-
-	return newVerticalPositionFromRows(uint8(rowNumber), uint8(maxRows))
 }

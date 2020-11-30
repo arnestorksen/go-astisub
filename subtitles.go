@@ -190,7 +190,7 @@ type StyleAttributes struct {
 	STLItalics           *bool
 	STLUnderline         *bool
 	STLJustification     *Justification
-	STLVerticalPosition  *VerticalPosition
+	STLPosition          *Position
 	TeletextColor        *Color
 	TeletextDoubleHeight *bool
 	TeletextDoubleSize   *bool
@@ -232,7 +232,7 @@ type StyleAttributes struct {
 	WebVTTVertical       string
 	WebVTTViewportAnchor string
 	WebVTTWidth          string
-	WebVTTItalics		 bool
+	WebVTTItalics        bool
 }
 
 func (sa *StyleAttributes) propagateSSAAttributes() {}
@@ -241,8 +241,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 	if sa.STLJustification != nil {
 		switch *sa.STLJustification {
 		case JustificationLeft:
-			sa.TTMLTextAlign = "left"
-			sa.WebVTTAlign = "left"
+			//default should be center
+			sa.TTMLTextAlign = "center"
+			sa.WebVTTAlign = "center"
 		case JustificationCentered:
 			sa.TTMLTextAlign = "center"
 			sa.WebVTTAlign = "center"
@@ -251,10 +252,9 @@ func (sa *StyleAttributes) propagateSTLAttributes() {
 			sa.WebVTTAlign = "right"
 		}
 	}
-	if sa.STLVerticalPosition != nil {
-		p := sa.STLVerticalPosition.asPercent()
-		sa.TTMLOrigin = fmt.Sprintf("10%% %d%%", p)
-		sa.TTMLExtent = fmt.Sprintf("80%% %d%%", 100-p)
+	if sa.STLPosition != nil {
+		sa.TTMLExtent = fmt.Sprintf("%d%% %d%%", asPercent(sa.STLPosition.extent.width), asPercent(sa.STLPosition.extent.height))
+		sa.TTMLOrigin = fmt.Sprintf("%d%% %d%%", asPercent(sa.STLPosition.origin.x), asPercent(sa.STLPosition.origin.y))
 	}
 	if sa.STLItalics != nil {
 		sa.TTMLFontStyle = "italic"
